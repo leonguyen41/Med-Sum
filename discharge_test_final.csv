@@ -1,0 +1,2713 @@
+note_id,subject_id,hadm_id,note_type,note_seq,charttime,storetime,text
+10021930-DS-13,10021930,20480646,DS,13,2177-01-14 00:00:00,2177-01-15 07:20:00," 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+gold injections / Lipitor
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Back pain
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ yo male with history of hypertension, rheumatoid arthritis, 
+chronic low back pain, renal cell carcinoma s/p mets to lumbar 
+spine, sacrum, R iliac wing s/p XRT chemo (sutent) admitted with 
+worsened LBP.  At baseline, apparently, Mr. ___ has chronic 
+LBP but able to perform ADLs, ambulate in the house and climb 
+stairs.  He presented to ___ clinic last week with c/o 
+mucositis, perirectal skindown, nausea as a result of the 
+sutent.  The sutent was stopped and given decadron.  He was 
+reportedly doing fine until over the past ___ days noted 
+progressive worsening LBP described as lower, radiating to bil 
+buttocks and legs.  Denies weakness, loss of sensation, 
+bowel/bladder incontinence.  
+   Yesterday, pain was severe and not relieved by oxycodone.  
+Could not get up from the supine position and thus went to 
+___.  There, they could not do a L-spine MRI to 
+further eval and thus he was transferred to the ___ ED for 
+further eval.  MRI T-spine/L-spine showed stable L spine disease 
+but progression of T-spine mets.  He was given 2 percocets and 
+ativan with good effect.  No iv opiates were given.  
+   Presently describes pain as ""mild"".  
+
+ROS: per HPI, denies fever, chills, night sweats, headache, 
+vision changes, rhinorrhea, congestion, sore throat, cough, 
+shortness of breath, chest pain, abdominal pain, nausea, 
+vomiting, diarrhea, constipation, BRBPR, melena, hematochezia, 
+dysuria, hematuria.  A 10 pt review of sxs was otherwise 
+negative.
+
+ 
+Past Medical History:
+# HTN
+# hyperchol
+# GERD
+# OA
+# Bil hip and knee replacements
+# RA ___ yrs
+# gout and pseudogout for ___ years
+# bilateral essential tremors.
+# anxiety
+# h/o ___ DVT ___ s/p MVA
+
+ONCOLOGIC HISTORY:
+- ___ - lumbar MRI done due to worsening LBP (hx OA, lumbar
+stenosis with chronic back pain) revealing hyperintense foci at
+L3, L4, L5 as well as within the right aspect of the sacrum and
+bilateral ilium suggestive of malignancy. 
+- ___ - abdominal revealed a 2.9 cm area of enhancement in
+the upper left kidney.  
+- ___ - lumbar spine CT revealed a destructive lesion in
+the transverse processes of L5 and lytic lesions involving the
+right iliac wing, right sacrum, L2 and L4.  A 2.9 cm mass was
+seen in the left kidney consistent with renal cell carcinoma.  -
+-___ - CT-guided biopsy of the right ilium demonstrated
+metastatic adenocarcinoma. The tumor cells were negative for PSA
+and positive for CD10 and cytokeratin cocktail; vimentin stains
+difficult to interpret. 
+-___ - completed 10 fractions of XRT to the spine and
+pelvis. 
+-___ - renal biopsy revealing an undifferentiated tumor,
+most consistent with a collecting duct origin.
+-___ signed consent for sutent vs everolimus trial, but
+withdrew consent on ___ began sunitinib 50 mg daily four weeks on/two weeks off
+schedule. Therapy held for GI side effects and restarted 2 weeks
+on/1 week off. Hospitalized with ARF, hypotension and 
+dehydration
+at end of ___ restarted sunitinib 37.5 mg daily two weeks on/one week
+off.
+-___ torso CT stable.
+-___ lumbar MRI shows severe canal stenosis at L2 due to
+retropulsion of epidural tumor and nerve root enhancement.
+Progression at T11 also noted.
+
+ 
+Social History:
+___
+Family History:
+Positive for hypertension, mother with question of lung tumor.  
+No history of renal cell carcinoma. Father deceased with history 
+of CAD and perforated bowel. 
+
+ 
+Physical Exam:
+ADMISSION EXAM: 
+Vital Signs: 97.9  126/84  76  18  94% on RA 
+glucose: 
+. 
+GEN: NAD, lying in bed, A&Ox3, pleasant, interactive, mod obese
+EYES: PERRL, EOMI, conjunctiva clear, anicteric
+ENT: moist mucous membranes, no exudates 
+NECK: supple 
+CV: RRR s1s2 nl, no m/r/g
+PULM: CTA, no r/r/w 
+GI: normal BS, NT/ND, no HSM  
+BACK: mild focal tenderness in lumbar spine
+EXT: warm, no c/c/e
+SKIN: no rashes 
+NEURO: alert, oriented x 3, answers ? appropriately, follows 
+commands, non focal
+PSYCH: appropriate
+ACCESS: PIV
+FOLEY: absent
+
+DISCHARGE EXAM:
+Vital Signs: Tm/Tc 98.1/98.1 BP 122.53 P 65 R 18  Sat 95% on RA  
+
+I/O: 2180/___
+. 
+GEN: NAD, sitting in bed, A&Ox3, pleasant, interactive, mod 
+obese
+EYES: PERRL, EOMI, conjunctiva clear, anicteric
+ENT: moist mucous membranes, no exudates 
+NECK: supple 
+CV: RRR s1s2 nl, no m/r/g
+PULM: CTA, no r/r/w 
+GI: normal BS, NT/ND, no HSM  
+BACK: mild focal tenderness in lumbar spine, TLSO brace in place
+EXT: warm, no c/c/e
+SKIN: no rashes 
+NEURO: alert, oriented x 3, answers ? appropriately, follows 
+commands, non focal, ___ strength in all muscle groups in all 
+extremities
+PSYCH: appropriate
+ACCESS: PIV
+FOLEY: absent
+
+ 
+Pertinent Results:
+ADMISSION LABS
+--------------
+___ 04:30PM BLOOD WBC-2.7* RBC-2.86* Hgb-10.4* Hct-32.3* 
+MCV-113* MCH-36.3* MCHC-32.1 RDW-16.1* Plt ___
+___ 04:30PM BLOOD Glucose-89 UreaN-18 Creat-0.9 Na-141 
+K-4.2 Cl-101 HCO3-32 AnGap-12
+___ 04:30PM BLOOD Calcium-8.8 Phos-2.8 Mg-1.4*
+
+DISCHARGE LABS
+--------------
+___ 07:45AM BLOOD WBC-3.6* RBC-2.56* Hgb-9.3* Hct-28.4* 
+MCV-111* MCH-36.1* MCHC-32.6 RDW-16.7* Plt ___
+___ 07:45AM BLOOD Glucose-128* UreaN-37* Creat-1.0 Na-139 
+K-4.6 Cl-102 HCO3-27 AnGap-15
+___ 07:45AM BLOOD Calcium-9.3 Phos-3.1 Mg-1.7
+
+IMAGING
+-------
+MRI T,L-spine (___):  
+Compared with the prior thoracic spine MRI of ___, 
+there is 
+further collapse of the T2 pathologic fracture with likely 
+epidural extension of metastatic disease.  Also, metastatic 
+lesion within the T7 vertebral body has increased in size.  
+There is new enhancing anterior and posterior epidural 
+metastatic disease from T10 through L1 levels. 
+  
+There is stable extensive metastatic disease within the lumbar 
+spine and 
+pelvis as described above. 
+  
+The study and the report were reviewed by the staff radiologist. 
+
+
+ 
+Brief Hospital Course:
+___ yo man history of hypertension, rheumatoid arthritis, chronic 
+low back pain, renal cell carcinoma s/p metastases to lumbar 
+spine, sacrum, right iliac wing s/p XRT and chemotherapy 
+(sutent) admitted with worsened low back pain. 
+
+ACTIVE ISSUES
+-------------
+# Low back pain: Mr. ___ was admitted with acute on chronic 
+low back pain.  He has known extensive renal cell carcinoma 
+metastases to lumbar spine, T2, and T7.  MRI on this admission 
+showed steady progression of the thoracic mets, particularly 
+with T2 collapse and epidural extension.  Given concern for T2 
+vertebra stability, neurosurgery was consulted and recommended 
+that he have a full TLS (Somi) brace at all times while upright. 
+ He, however, is not required to wear the brace when lying down 
+at HOB <30 degs.  The T2 compression fracture is high enough 
+that significant neck movement is prohibited.  The brace is 
+designed to restrict neck movement - and thus precludes Mr. 
+___ from driving.  With his interests in driving and his 
+collection of multiple cars/trucks, this news was naturally 
+quite distressing to Mr. ___.  Social Work was consulted to 
+provide some coping.  It was communicated to Mr. ___ that it 
+is unlikely that he will be able to drive ever again.  He would 
+not be able to drive with the brace because of neck 
+restrictions; he would not be able to drive without it because 
+the risk of paralysis with T2 vertebra instability; and patient 
+is already at significant risk with the high doses of opiates 
+and pain medications.  During this stay, here, there was no 
+cauda equina symptoms.  Pain was controlled with dexamethasone, 
+Butrans patch, tramadol, NSAIDs, cyclobenzaprine, oxycodone PRN. 
+ The Butrans patch was doubled to 20 ug/hr to provide stronger 
+baseline relief of the pain.  ___ evaluated the patient and felt 
+he was stable for discharge but would benefit from home physical 
+therapy.  Training on the placement on removal of the brace was 
+provided to the patient and his wife.  The ___ was 
+contacted with paperwork stating that the patient is not 
+medically safe to drive.  The patient refused to sign this 
+paperwork. 
+
+# Renal cell carcinoma: s/p XRT and chemotherapy (Sutent).  Mr. 
+___ has been off the Sutent due to significant mucositis and 
+nausea.  There has been near complete resolution of these 
+symptoms.  There is some residual sacral wounds and wound 
+consult made the following recommendations: Mepilex to back 
+blisters to protect from friction from straps, Criticaid clear 
+to perianal fissures Qshifts or pRN, pressure redistribution 
+measures, limit sit time to 1 hour at a time.  He will follow 
+with Dr. ___ to determine what chemo to 
+initiate as an outpt
+
+# Anemia: Mr. ___ has had decrease in Hct but no clear 
+evidence of bleed.  There was no GI bleed noted and blood 
+pressure was stable.  Hematocrit was followed serially. 
+
+# Hiccups: patient was started on a trial of chlorpromazine 25mg 
+TID x 7 days, which he will continue upon discharge
+
+INACTIVE ISSUES
+---------------
+# Hypertension: stable, patient was continued on atenolol and 
+hydrochlorthiazide.
+
+# GERD: patient was continued on home omeprazole.
+
+# Anxiety: no anxiolytics were provided while patient was 
+admitted.
+.
+TRANSITIONS OF CARE
+-------------------
+# Follow-up: patient will follow up with Oncology on discharge, 
+for an appointment to be arranged after discharge.  He will be 
+discharged with a Somi brace and wheelchair.  He should have a 
+full TLS (Somi) brace on at all times while upright.  He, 
+however, is not required to wear the brace when lying down at 
+HOB <30 degrees.  The T2 compression fracture is high enough 
+that significant neck movement is prohibited.  He will get home 
+physical therapy.
+
+# Code status: patient is confirmed full code.
+
+# Contact: Wife ___ ___
+
+ 
+___ on Admission:
+- ATENOLOL 25 mg daily
+- Butrans 10 mcg/hour Transderm Patch. 10 mg patch once weekly
+- COLCHICINE 0.6 mg tablet. 1 tablet daily 
+- CYCLOBENZAPRINE 10 mg tablet QHS PRN restless legs
+- DEXAMETHASONE 4 mg BID
+- HYDROCHLOROTHIAZIDE 25 mg daily 
+- LORAZEPAM 0.5 mg PRN 
+- OMEPRAZOLE ___ 20 mg Daily
+- ONDANSETRON HCL Dosage uncertain
+- OXYCODONE ___ mg q4h PRN pain
+- PROCHLORPERAZINE MALEATE ___ mg QID PRN nausea
+- SUNITINIB [SUTENT] 12.5 mg 3 capsule mouth daily x 2 weeks, 
+then 1 week off.
+- TRAMADOL - tramadol 150 mg daily 
+- ASPIRIN 325 mg daily
+- NAPROXEN SODIUM [ALEVE] 220 mg PRN
+- TROLAMINE SALICYLATE [ASPERCREME] - Dosage uncertain -  (OTC)
+
+ 
+Discharge Medications:
+1. Butrans *NF* (buprenorphine) 10 mcg/hour Transdermal Q1Week 
+pain 
+RX *buprenorphine [Butrans] 10 mcg/hour 1 patch once a week Disp 
+#*4 Each Refills:*0
+2. Aspirin 325 mg PO DAILY 
+3. Atenolol 25 mg PO DAILY 
+4. Colchicine 0.6 mg PO DAILY 
+5. Cyclobenzaprine 10 mg PO HS:PRN restless legs 
+6. Dexamethasone 4 mg PO Q12H 
+7. Hydrochlorothiazide 25 mg PO DAILY 
+8. Lorazepam 0.5 mg PO Q4H:PRN anxiety 
+9. Naproxen 250 mg PO Q8H:PRN pain  *Research Pharmacy Approval 
+Required* Research protocol ___
+10. Omeprazole 20 mg PO DAILY  *Research Pharmacy Approval 
+Required* Research protocol ___
+11. OxycoDONE (Immediate Release)  ___ mg PO Q4H:PRN pain  
+*Research Pharmacy Approval Required* Research protocol ___
+12. TraMADOL (Ultram) 50 mg PO Q8H  *Research Pharmacy Approval 
+Required* Research protocol ___
+13. Ondansetron 4 mg PO Q8H:PRN nausea 
+14. Prochlorperazine ___ mg PO Q6H:PRN nausea 
+15. Citalopram 20 mg PO DAILY 
+RX *citalopram [Celexa] 20 mg 1 tablet(s) by mouth daily Disp 
+#*14 Tablet Refills:*0
+16. Senna 1 TAB PO BID:PRN constipation 
+RX *sennosides [senna] 8.6 mg 1 tab by mouth daily Disp #*10 
+Tablet Refills:*0
+17. Bisacodyl 10 mg PO/PR DAILY:PRN constipation 
+RX *bisacodyl 5 mg ___ tablet,delayed release (___) by 
+mouth daily Disp #*14 Tablet Refills:*0
+18. ChlorproMAZINE 25 mg PO TID hiccups Duration: 5 Days 
+RX *chlorpromazine 25 mg 1 tablet(s) by mouth three times a day 
+Disp #*15 Tablet Refills:*0
+19. wheelchair *NF* 1  Miscellaneous daily 
+RX *wheelchair   Use one wheelchair daily Disp #*1 Each 
+Refills:*0
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Back pain
+Collapsed T2 with spinal instability
+Metastatic renal cell cancer
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure looking after you, Mr. ___.  As you know, 
+you were admitted with increased pain in the back.  MRI of the 
+spine showed progression of the cancer involvement of the T2 and 
+T7 vertebrae.  The T2 vertebra (below the neck), in particular, 
+was collapsed and revealed extension of the break into the 
+spinal canal.   It is for this reason, that you should have the 
+brace in place while you are upright.  This can be removed when 
+you are lying down flat with the head below 30 degrees from 
+horizontal.  You have verbalized that you understand the risks 
+and potential consequences, namely paralysis, that can occur 
+from not wearing the brace.
+
+   Because of the limitations with the neck brace, you should 
+not drive for risk of getting into an accident.  Driving without 
+the brace is equally dangerous, as the T2 vertebra may press on 
+the spinal cord and lead to paralysis - and thus a risk for 
+yourself and others.  The ___ ___ has been contacted 
+and your license is no longer active and you are not permitted 
+by law to be driving.
+  
+  Please follow up with Dr. ___ about the 
+next steps for your treatment.
+ 
+Followup Instructions:
+___
+"
+10097898-DS-11,10097898,21361100,DS,11,2146-11-14 00:00:00,2146-11-14 16:42:00," 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: NEUROSURGERY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+visual disturbances, facial & LUE paresthesias, headache
+ 
+Major Surgical or Invasive Procedure:
+___: right craniotomy for resection of dural lesion
+
+ 
+History of Present Illness:
+___ year old male who initially presented to ___ 
+on ___ with visual disturbance and the question of a 
+possible TIA or stroke.  At that time, the patient developed an 
+acute onset of a left side homonymous scotoma.  He also noted 
+some paresthesias in the upper left extremity and face.  There 
+was some associated headache.  These failed to resolve with 
+lying
+down and lasted for approximately one hour and during this time, 
+he went to the hospital.  His symptoms will gradually improve 
+and now completely resolved.  Imaging during that time revealed 
+this lesion.
+
+ 
+Past Medical History:
+hypertension
+dyslipidemia
+
+ 
+Social History:
+___
+Family History:
+He has no contributory family history
+ 
+Physical Exam:
+UPON DISCHARGE: 
+Exam:
+
+Opens Eyes: [x]Spontaneous [ ]To voice [ ]To noxious
+Orientation: [x]Person [x]Place [x]Time
+Follows Commands: [ ]Simple [x]Complex [ ]None
+Pupils: PERRL 3-2mm
+EOMs: [x]Full [ ]Restricted
+Face Symmetric: [x]Yes [ ]No
+Tongue Midline: [x]Yes [ ]No
+Drift: [ ]Yes [x]No
+Speech Fluent: [x]Yes [ ]No
+Comprehension Intact: [x]Yes [ ]No
+
+Motor:
+Trapezius   Deltoid   Biceps   Triceps   Grip
+Right5           5         5        5 5
+Left5           5         5        5         5 
+
+IP   Quadriceps   Hamstring   AT   ___   Gastrocnemius
+Right5    5            5           5    5     5
+Left5    5            5           5    5     5
+
+[x]Sensation intact to light touch
+
+Surgical Dressing:
+[x]Incision Clean, dry, intact
+[x]staples 
+ 
+Pertinent Results:
+Please refer to ___ for relevant imaging and lab results 
+ 
+Brief Hospital Course:
+#Dural Lesion
+On ___, the patient was electively admitted for planned right 
+craniotomy for resection of dural lesion. Please refer to ___ 
+for further procedure details. He was extubated and transferred 
+to the PACU for post-anesthesia monitoring. He was then 
+transferred to the neuroscience intermediate care unit for 
+ongoing care. Postoperative NCHCT was stable with expected 
+post-surgical changes. Postoperative MRI showed no residual 
+tumor. Patient remained neurologically stable. 
+
+#Hyponatremia
+POD1 patients Na level was 131. On ___, Na level dropped to 
+126. He was started on salt tabs, which were increased to 3g 
+TID. Fludricort was added. IV fluids were discontinued. Sodium 
+level has normalized and has remained stable. 
+
+#Dispo
+A physical therapy consult was placed for disposition 
+recommendations. ___ deferred evaluation as patient was 
+independently ambulating. 
+
+ 
+Medications on Admission:
+HCTZ 12.5mg PO daily; Lisinopril 20mg PO daily; Simvastatin 10mg 
+PO QPM; ASA 81mg PO daily 
+ 
+Discharge Medications:
+1.  Acetaminophen-Caff-Butalbital ___ TAB PO Q6H:PRN Headache 
+Do not Exceed 4g of Tylenol in 24 hours.  
+RX *butalbital-acetaminophen-caff 50 mg-325 mg-40 mg 1 
+capsule(s) by mouth Q6hrs PRN Disp #*30 Capsule Refills:*0 
+2.  Acetaminophen 325-650 mg PO Q8H:PRN Pain - Mild/Fever  
+3.  Docusate Sodium 100 mg PO BID  
+4.  Fludrocortisone Acetate 0.1 mg PO DAILY 
+RX *fludrocortisone 0.1 mg 1 tablet(s) by mouth Daily Disp #*30 
+Tablet Refills:*0 
+5.  OxyCODONE (Immediate Release) ___ mg PO Q4H:PRN Pain - 
+Moderate 
+RX *oxycodone 5 mg ___ tablet(s) by mouth Q4hrs PRN Disp #*60 
+Tablet Refills:*0 
+6.  Sodium Chloride 3 gm PO TID 
+RX *sodium chloride 1 gram 3 tablet(s) by mouth three times a 
+day Disp #*270 Tablet Refills:*0 
+7.  Hydrochlorothiazide 12.5 mg PO DAILY  
+8.  Lisinopril 20 mg PO DAILY  
+9.  Simvastatin 10 mg PO QPM  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Dural Lesion
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+Surgery
+You underwent surgery to remove a brain lesion from your brain. 
+
+Please keep your incision dry until your staples are removed. 
+You may shower at this time but keep your incision dry.
+It is best to keep your incision open to air but it is ok to 
+cover it when outside. 
+Call your surgeon if there are any signs of infection like 
+redness, fever, or drainage. 
+
+Activity
+We recommend that you avoid heavy lifting, running, climbing, 
+or other strenuous exercise until your follow-up appointment.
+You make take leisurely walks and slowly increase your activity 
+at your own pace once you are symptom free at rest. ___ try to 
+do too much all at once.
+No driving while taking any narcotic or sedating medication. 
+No contact sports until cleared by your neurosurgeon. You 
+should avoid contact sports for 6 months. 
+
+Medications
+Please do NOT take any blood thinning medication (Aspirin, 
+Ibuprofen, Plavix, Coumadin) until cleared by the neurosurgeon. 
+You may use Acetaminophen (Tylenol) for minor discomfort if you 
+are not otherwise restricted from taking this medication.
+
+What You ___ Experience:
+You may experience headaches and incisional pain. 
+You may also experience some post-operative swelling around 
+your face and eyes. This is normal after surgery and most 
+noticeable on the second and third day of surgery.  You apply 
+ice or a cool or warm washcloth to your eyes to help with the 
+swelling. The swelling will be its worse in the morning after 
+laying flat from sleeping but decrease when up. 
+You may experience soreness with chewing. This is normal from 
+the surgery and will improve with time. Softer foods may be 
+easier during this time. 
+Feeling more tired or restlessness is also common.
+Constipation is common. Be sure to drink plenty of fluids and 
+eat a high-fiber diet. If you are taking narcotics (prescription 
+pain medications), try an over-the-counter stool softener.
+
+When to Call Your Doctor at ___ for:
+Severe pain, swelling, redness or drainage from the incision 
+site. 
+Fever greater than 101.5 degrees Fahrenheit
+Nausea and/or vomiting
+Extreme sleepiness and not being able to stay awake
+Severe headaches not relieved by pain relievers
+Seizures
+Any new problems with your vision or ability to speak
+Weakness or changes in sensation in your face, arms, or leg
+
+Call ___ and go to the nearest Emergency Room if you experience 
+any of the following:
+Sudden numbness or weakness in the face, arm, or leg
+Sudden confusion or trouble speaking or understanding
+Sudden trouble walking, dizziness, or loss of balance or 
+coordination
+Sudden severe headaches with no known reason
+
+ 
+Followup Instructions:
+___
+"
+10130937-DS-18,10130937,20920835,DS,18,2127-06-01 00:00:00,2127-06-12 16:02:00," 
+Name:  ___.                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins / Lisinopril
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Palpitations
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+___ F with hx HTN, high cholesterol p/w 2 weeks of intermittent 
+palpatations. She states that she has felt her heart "" racing"" 
+off and on for three months, no particular trigger, occurs with 
+rest and while walking. She denies any chest pain, no SOB, no 
+fevers, no cough. She went to the ED today because her symptoms 
+worsened.  
+  
+In the ED, an EKG showed arrythmia with ? 2:1 block, new TWI in 
+I and AVF. She was given aspirin. CE neg x1. Vitals 965.6 BP 
+183/87 HR 55 18 99%RA.  
+ 
+On review of systems, she denies any prior history of stroke, 
+TIA, deep venous thrombosis, pulmonary embolism, bleeding at the 
+time of surgery, myalgias, joint pains, hemoptysis, black stools 
+or red stools. She denies recent fevers, chills or rigors. He 
+denies exertional buttock or calf pain. She has had a 
+nonproductive cough for the last 3 days.  All of the other 
+review of systems were negative.  
+Cardiac review of systems is notable for absence of chest pain, 
+dyspnea on exertion, paroxysmal nocturnal dyspnea, orthopnea, 
+ankle edema, palpitations, syncope or presyncope.  
+
+ 
+Past Medical History:
+Hypertesion  
+Hypercholesterolemia  
+Ocular hypertension 
+
+ 
+Social History:
+___
+Family History:
+There is no family history of premature coronary artery disease 
+or sudden death.  
+
+ 
+Physical Exam:
+VS - 97.6 151/77 66 14 98%RA  
+Gen: WDWN middle aged female in NAD. Oriented x3. Mood, affect 
+appropriate.  
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were 
+pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.  
+
+CV: PMI located in ___ intercostal space, midclavicular line. 
+RR, normal S1, S2. No m/r/g. No thrills, lifts. No S3 or S4.  
+Chest: No chest wall deformities, scoliosis or kyphosis. Resp 
+were unlabored, no accessory muscle use. CTAB, no crackles, 
+wheezes or rhonchi.  
+Abd: Soft, NTND. No HSM or tenderness. Abd aorta not enlarged by 
+palpation. No abdominial bruits.  
+Skin: No stasis dermatitis, ulcers, scars, or xanthomas. 
+ 
+Pertinent Results:
+Admission Labs:
+WBC-4.8 RBC-4.41 Hgb-12.4 Hct-37.2 MCV-84 MCH-28.1 MCHC-33.3 
+RDW-14.1 Plt ___
+Neuts-52.7 ___ Monos-6.1 Eos-2.9 Baso-0.3
+___ PTT-30.5 ___
+Glucose-115* UreaN-22* Creat-0.8 Na-141 K-3.7 Cl-104 HCO3-28 
+Calcium-9.5 Phos-4.3 Mg-1.9
+TSH-4.6*, Free T4-0.98
+___ 12:05AM BLOOD CK(CPK)-120, CK-MB-5, cTropnT-0.01
+___ 05:35AM BLOOD CK(CPK)-110, CK-MB-5, cTropnT-<0.01
+ 
+___ CXR: 
+FINDINGS: The cardiac silhouette is enlarged and unchanged. 
+There is no 
+evidence of pneumothorax, consolidation, or pleural effusion. 
+Increased 
+interstitial markings are again noted. The pulmonary vasculature 
+is normal. 
+The osseous structures demonstrate degenerative changes of the 
+spine. 
+IMPRESSION: No evidence of CHF or pneumonia. 
+ 
+___ ECHO: The left atrial volume is increased. The left 
+atrium is dilated. There is mild symmetric left ventricular 
+hypertrophy with normal cavity size and regional/global systolic 
+function (LVEF>55%). Tissue Doppler imaging suggests an 
+increased left ventricular filling pressure (PCWP>18mmHg). There 
+is no ventricular septal defect. Right ventricular chamber size 
+and free wall motion are normal. The aortic valve leaflets (3) 
+are mildly thickened but aortic stenosis is not present. Mild to 
+moderate (___) aortic regurgitation is seen. The mitral valve 
+appears structurally normal with trivial mitral regurgitation. 
+There is no mitral valve prolapse. Trivial mitral regurgitation 
+is seen. The estimated pulmonary artery systolic pressure is 
+normal. There is a small pericardial effusion. The effusion 
+appears circumferential. There are no echocardiographic signs of 
+tamponade. 
+
+IMPRESSION: Mild symmetric left ventricular hypertrophy with 
+preserved global and regional biventricular systolic function. 
+Diastolic dysfunction. Mild to moderate aortic regurgitation. 
+Small circumferential pericardial effusion with a small mobile 
+echodensity seen near the RVOT, likely a mobile fat pad or 
+fibrin within the effusion.
+
+Compared with the report of the prior study (images unavailable 
+for review) of ___, the degree of mitral regurgitation is 
+slightly less and the pericardial effusion is new.  
+
+ 
+Brief Hospital Course:
+___ year old female with palpatations and EKG consistent with new 
+onset symptomatic atrial flutter.  
+  
+#. Atrial Flutter: The patient was monitored on telemetry and 
+noted to be in aflutter with a HR up to 120 at times.  Her 
+metoprolol dose was increased to 25 mg BID.  Given her CHADS 
+score of 2, she was started on heparin and coumadin.  She was 
+evaluated by electrophyiology and her heart rate only 
+temporarily slowed in response to IV adenosine.  Plans were made 
+for electrical cardioversion, however, she spontaneously 
+converted to NSR on her second hospital day.  Given her 
+intermittant symptoms and dilated left atrium on ECHO, she 
+probably flips in and out of atrial flutter over time.  She does 
+not appear to have any triggers for aflutter: no fevers or 
+leukocytosis suggesting infection, no sign of heart failure or 
+ischemia, and no hyperthyroidism.  In fact, her TSH was mildly 
+elevated at 4.6, but free T4 was low normal at 0.98.  It was 
+felt that no intervention regarding her TFTs is necessary at 
+this time, though she should probably have these labs checked 
+again in 6 months by her PCP.  
+ 
+On discharge she was started on amiodarone 200 mg BID for one 
+month, then 200 mg daily thereafter, to help control her rhythm. 
+ As this medication will also slow her heart rate and she was 
+bradycardic to the high ___ on a couple of occassions with 
+metoprolol 25 mg bid, her home atenolol is being stopped on 
+discharge.  LFTs were checked on the day of discharge and were 
+normal.  PFTs were scheduled as an outpatient.  The patient will 
+be going home with ___ of heart's monitor for 2 weeks, to be 
+checked daily.  The patient will follow-up with Dr. ___ in 
+cardiology in 1 month.  
+  
+#. CAD: The patient has no known history of CAD and her 
+excercise MIBI in ___ was without any signs of ischemia.  She 
+was continued on aspirin and a beta blocker.  
+   
+#. Pump: The patient appeared euvolemic on exam.  She has no 
+known history of CHF and on ECHO had an LVEF > 55%.  The ECHO 
+also showed a dilated left atrium, diastolic dysfunction, and a 
+small peridcardial effusion.  These latter two findings were not 
+active issues during this hospitalization.
+ 
+#. Anti-coagulation: The patient was started on heparin IV and 
+warfarin 5 mg daily on admission.  The patient is being 
+discharged on warfarin 5 mg daily and has anticoagulation 
+follow-up at the ___.
+ 
+#. Hypertension: The patient was continued on her home dose of 
+hydrochlorothiazide.  Her beta blocker was changed from atenolol 
+to metoprolol 25 mg BID.  Her beta blocker is being stopped on 
+discharge as amiodarone will likely slow her heart rate.  She 
+maintained SBPs from 110s-140 during her hospitalization.
+  
+#. Hyperlipidemia: The patient was continued on pravastatin at 
+her home dose. 
+   
+#. Occular hypertension: The patient was continued on timolol 
+and put on latanoprost as bimatoprost is not on the hospital 
+formulary.  Per the patient, she was not actively taking these 
+medications at home.  She was encouraged to take these 
+medications and speak with her eye physician about them.  
+ 
+
+ 
+Medications on Admission:
+Atenolol 50 mg daily
+Lumigan 0.03% one drop ___
+Timolol 0.5% BID
+Pravastatin 40 mg daily
+Hydrochlorothiazide 25 mg daily
+Aspirin 81 mg daily
+ 
+Discharge Medications:
+1. Hydrochlorothiazide 12.5 mg Capsule Sig: Two (2) Capsule PO 
+DAILY (Daily).  
+2. Pravastatin 20 mg Tablet Sig: Two (2) Tablet PO DAILY 
+(Daily).  
+3. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable 
+PO once a day.  
+4. Timolol Maleate 0.5 % Drops Sig: One (1) Drop Ophthalmic BID 
+(2 times a day).  
+5. Lumigan 0.03 % Drops Sig: One (1) drop Ophthalmic at bedtime. 
+ 
+6. Warfarin 1 mg Tablet Sig: Five (5) Tablet PO once a day.
+Disp:*150 Tablet(s)* Refills:*2*
+7. Amiodarone 200 mg Tablet Sig: One (1) Tablet PO twice a day: 
+Please take 200 mg twice a day for 1 month, then starting on 
+___ take 200 mg once a day.
+Disp:*60 Tablet(s)* Refills:*2*
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary Diagnoses:
+Atrial Flutter
+
+Secondary Diagnoses:
+Hypertension
+Hypercholesterolemia
+Ocular hypertension
+
+ 
+Discharge Condition:
+Stable, satting well on room air, in normal sinus rhythm. 
+
+ 
+Discharge Instructions:
+You were admitted to the hospital because of palpitations.  Your 
+heart was in an irregular rhythm called atrial flutter.  
+However, your heart spontaneously went back into a normal rhythm 
+while you were in the hospital.  Because you have had 
+palpitations intermittantly over the past 3 months, your heart 
+likely goes in and out of a normal rhythm frequently.  Because 
+of this, you will need to start some new medications and also 
+have your heart monitored at home for 2 weeks.  
+
+You will be started on a new medication called amiodarone to 
+help keep your heart in a normal rhythm.  Because this 
+medication slows down your heart, you should stop taking 
+atenolol.  You will also need to do some special tests of your 
+lung function because you are taking this new medication.
+
+You will also need to be on a blood thinning medication called 
+warfarin to prevent blood clots from forming when your heart is 
+in an abnormal rhythm.  You will need to have frequent follow-up 
+after discharge to adjust the dose of this medication properly 
+so that your blood is not too thick and not too thin.
+
+Please follow-up with the cardiologist below.
+ 
+Please call your physician or return to the hospital if you 
+develop chest pain, shortness of breath, lightheadedness, 
+weakness on one side of your body, or any other concerning 
+symptoms.  
+ 
+Followup Instructions:
+___
+"
+10130937-DS-19,10130937,29288368,DS,19,2130-03-20 00:00:00,2130-03-20 19:37:00," 
+Name:  ___.                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins / Lisinopril / Shellfish Derived
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Constipation
+ 
+Major Surgical or Invasive Procedure:
+Colonoscopy
+Paracentesis
+ 
+History of Present Illness:
+___ Female with pmh of HLD, HTN, Atrial flutter on coumadin 
+presenting with 3 weeks of constipation and two weeks of diffuse 
+abdominal pain. Pt returned yesterday from ___ yesterday 
+after three month trip.  Due to constipation, she has has had 
+decerased PO intake, and some mild nausea but denies vomiting.  
+Complains of a decreased appetite. Also denies any CP or SOB.  
+No urinary complaints.
+
+She does say that she has lost 10 pounds over the last few 
+months which is unintentional.  She also describes having small 
+bowel caliber bowel movements over the last few few weeks.  She 
+denies any melena or hematochezia.
+
+In the ED initial vital signs were  ___ 97.9 74 138/62 16 100% 
+Labs were notable for potassium of 3.2
+Patient was given 1L NS, 20g L Fleets enema with no return of 
+stool
+Patient was admitted for constipation
+Vital signs prior to transfer 98.4 64 137/56 18 100% RA
+ 
+Past Medical History:
+Hyperlipidemia
+Hypertension
+Atrial flutter
+Ocular hypertension
+ 
+Social History:
+___
+Family History:
+There is no family history of premature coronary artery disease 
+or sudden death.  Granddaughter died of colon cancer last year 
+___ years old)
+ 
+Physical Exam:
+Physical Exam on Admission:
+VS: 98.4 64 137/56 18 100% RA 
+GEN: AOx3, mildly ucnomfortable, belching  
+HEENT: PERRLA. MMM. no LAD. no JVD. neck supple. No cervical, 
+supraclavicular, or axillary LAD  
+Cards: RR S1/S2 normal. no murmurs/gallops/rubs.  
+Pulm: No dullness to percussion, CTAB no crackles or wheezes  
+Abd: BS+, Soft, mild distension, mild TTP throughout, no 
+reb/guarding, no HSM, no ___ sign
+Recvtal: Heme Negative, no stool in vault
+Extremities: wwp, no edema. DPs, PTs 2+.  
+Skin: no rashes or bruising  
+Neuro: CNs II-XII intact. ___ strength in U/L extremities. DTRs 
+2+ ___. sensation intact to LT, cerebellar fxn intact (FTN, HTS). 
+gait WNL.
+
+Physical Exam on discharge:
+VS: Tmax 98.7 Tc98.2  78 109/59 16 98% RA 
+GEN: AOx3, mildly ucnomfortable, belching  
+Cards: RR S1/S2 normal. no murmurs/gallops/rubs.   
+Abd: BS+, Soft, moderate distension, mild TTP throughout 
+espicially in the LLQ, no reb/guarding, no HSM, no ___ sign
+ 
+Pertinent Results:
+Labs on admission:
+___ 10:40AM BLOOD WBC-4.6# RBC-4.38 Hgb-12.5 Hct-36.0 
+MCV-82 MCH-28.5 MCHC-34.7 RDW-14.2 Plt ___
+___ 09:05PM BLOOD ___ PTT-29.2 ___
+___ 10:40AM BLOOD UreaN-12 Creat-0.6 Na-139 K-3.2* Cl-99 
+HCO3-31 AnGap-12
+___ 09:05PM BLOOD ALT-13 AST-16 LD(LDH)-192 AlkPhos-46 
+Amylase-22 TotBili-0.6
+___ 10:40AM BLOOD Calcium-9.4 Phos-3.4 Mg-2.1
+___ 09:05PM BLOOD HBsAb-NEGATIVE IgM HBc-NEGATIVE IgM 
+HAV-NEGATIVE
+___ 09:05PM BLOOD HCV Ab-NEGATIVE
+
+CA125-41 (normal range ___
+CEA-5.5* (normal range ___
+AFP-3.3
+
+ASCITES FLUID ANALYSIS:
+WBC 1025, RBC ___
+CULTURES: PENDING
+CYTOLOGY: PENDING
+
+Transvaginal US ___:
+Very limited study. The uterus appears normal. The ovaries 
+could not be identified. A large amount of ascites is seen in 
+the pelvis 
+
+CT abdomen/pelvis ___:
+Large ascites and omental caking/peritoneal implants raise 
+concern 
+for malignany, possibly due to colonic primary given eccentric 
+wall thickening in the transverse colon. Correlate with 
+colonoscopy. No obstruction.
+
+Colonoscopy ___:
+Diverticulosis of the whole colon
+Poor prep in the right colon limited the view. If the cecum 
+needs to be assessed then MAC would be recommended.
+There were no masses or lesions seen in the transverse colon
+Grade 1 internal hemorrhoids
+Otherwise normal colonoscopy to distal ascending colon 
+ 
+Brief Hospital Course:
+___ with pmh of HLD, HTN, Atrial flutter on coumadin that 
+presents with 3 weeks of constipation and diffuse abdominal 
+pain, found to large ascites and omental caking on CT scan, s/p 
+negative colonoscopy and a ultrasound-guided paracentesis.
+
+# Highly suspected neoplasm given finding of large ascites and 
+omental caking on CT scan and history of 10# weight loss and 
+decreased stool caliber.  It appeared that based on the initial 
+CT scan of omental caking with thickening of the transverse 
+colon, in addition to a clinical weight loss and change in bowel 
+habits that colon cancer was the likely diagnosis.  However 
+colonoscopy failed to reveal any masses with the entire colon.  
+A transvaginal US was then performed in an attempt to better 
+visualize the ovaries, however the test was of poor quality.  
+Then pt was sent for a diagnostic and theraputic US guided 
+paracentesis on the day of discharge.   Peritoneal fluid studies 
+were pending at discharge.  MRI pelvis can be considered to 
+assess for ovarian cancer.
+
+# Constipation: Unclear etiology, possible ___ cancerous mass or 
+ascites compressing the colon.  Rectal exam did not show stool 
+in rectal vault and CT scan did not show obstruction or a large 
+amount of stool.
+
+# Atrial flutter:  Pt was well rate controlled during 
+hospitalization.  Coumadin was held during hospitalization in 
+preparation for a colonoscopy.  We restarted her coumadin on 
+___ at the 5 mg dose.  Her INR on discharge was 1.0.
+
+# HTN:  Well controlled on HCTZ and amlodipine
+
+# Hypercholesterolemia:  Continued home dose of simvastatin.
+
+# Occular hypertension:  Continued home eye drop regimen.
+
+Ms. ___ will follow up in the ___ clinic on ___.  She 
+will also have follow up at the ___ clinic on ___, at which 
+time further arrangements can be made based on analysis of 
+peritoneal fluid.
+ 
+Medications on Admission:
+AMLODIPINE - 10 mg Tablet - 1 Tablet(s) by mouth daily
+HYDROCHLOROTHIAZIDE - 25 mg Tablet - 1 Tablet(s) by mouth daily
+PRAVASTATIN - 40 mg Tablet - 1 Tablet(s) by mouth daily
+TIMOLOL - 0.5 % Drops - one drop bid ___ per ___, MD here 
+for
+pt record
+TRIAMCINOLONE ACETONIDE - 0.1 % Ointment - Apply to affeceted
+area twice a day
+WARFARIN - 5 mg Tablet - 2 Tablet(s) by mouth daily
+ 
+Discharge Medications:
+1. pravastatin 20 mg Tablet Sig: Two (2) Tablet PO DAILY 
+(Daily).  
+2. timolol maleate 0.5 % Drops Sig: One (1) Drop Ophthalmic BID 
+(2 times a day).  
+3. triamcinolone acetonide 0.1 % Ointment Sig: One (1) Appl 
+Topical BID (2 times a day) as needed.  
+4. amlodipine 5 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).  
+
+5. hydrochlorothiazide 12.5 mg Capsule Sig: One (1) Capsule PO 
+DAILY (Daily).  
+6. warfarin 2 mg Tablet Sig: 2.5 Tablets PO once a day.
+Disp:*20 Tablet(s)* Refills:*0*
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Suspected malignancy
+Ascites
+Constipation
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+Dear ___,
+
+    ___ was a pleasure taking care of you during your 
+hospitalization.  You were admitted with constipation and 
+stomach pain.  A CT scan was concerning for cancer, so we 
+performed a colonoscopy which did not reveal the source of your 
+pain and belly swelling.  Our next step was to sample the fluid 
+in your stomach which we are hoping which tell us why you have 
+not been feeling well.
+
+You are now ready for discharge home.
+
+By your request to consolidate your care at ___, you have been 
+set up for a new primary care doctor, ___.  You will 
+first follow up with Dr. ___ week, who will go over the 
+results of your testing.
+
+You will also need to follow up in the ___ clinic on ___ 
+___.  We have restarted your coumadin on the day of 
+discharge (___).  Your dose will be 5 mg daily and your 
+INR today is 1.0.  They will call you on ___ to enroll you in 
+the clinic.
+ 
+Followup Instructions:
+___
+"
+10130937-DS-20,10130937,22621642,DS,20,2130-04-04 00:00:00,2130-04-21 23:55:00," 
+Name:  ___.                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins / Lisinopril / Shellfish Derived
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Abdominal pain
+ 
+Major Surgical or Invasive Procedure:
+Paracentesis, omental biopsy, EGD and stomach tumor biopsy
+
+ 
+History of Present Illness:
+A ___ female with PMH of HTN, A-flutter was recently 
+hospitalized ___ to ___ for abdominal pain, 
+constipation, and large ascites with omental caking on a CT scan 
+of the abdomen.  Her ascites fluid was collected and the 
+preliminary cytology results show MALIGNANT CELLS CONSISTENT 
+WITH ADENOCARCINOMA.  After she improved, she was discharged 
+from the hospital.  However, about ___ hours ago, she had a 
+sudden onset of right side of intermittent abd pain, which was 
+cramps in nature and ___ in intensity.  She could not 
+identify any modifying the factors.  There was no triggers or 
+precipitants either.  She also reported that she has had not 
+moved her bowel s for the past ___ days.  She has even  had not 
+passing gas for the past ___ days. She had significant belching 
+with no N/V.  she also complained of heartburn and reflux with 
+no dysphagia or odynophagia.  She also noticed that her abd was 
+more bloating than before.  Her weight has been stable. 
+
+In ED, pt received Vanco and Zosyn for a possible abd wall 
+cellulitis. 
+
+Review of Systems:  
+(+) Per HPI  
+(-) Denies fever, chills, night sweats, recent weight loss or 
+gain. Denies blurry vision, diplopia, loss of vision, 
+photophobia. Denies headache, sinus tenderness, rhinorrhea or 
+congestion. Denies chest pain or tightness, palpitations, lower 
+extremity edema. Denies cough, shortness of breath, or wheezes. 
+Denies nausea, vomiting,  melena, hematemesis, hematochezia. 
+Denies dysuria, stool or urine incontinence. Denies arthralgias 
+or myalgias. Denies rashes or skin breakdown. No 
+numbness/tingling in extremities. All other systems negative.
+
+ 
+Past Medical History:
+Hyperlipidemia
+Hypertension
+Atrial flutter
+Ocular hypertension
+ 
+Social History:
+___
+Family History:
+There is no family history of premature coronary artery disease 
+or sudden death.  Granddaughter died of colon cancer last year 
+___ years old)
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+.
+VS:98.8 86 129/61 16 99% 
+GEN: Elderly woman in NAD, awake, alert  
+HEENT: EOMI, sclera anicteric, conjunctivae clear, OP moist and 
+without lesion
+NECK: Supple, no JVD  
+CV: irrgular rate, normal S1, S2. No m/r/g.   
+CHEST: Resp unlabored, no accessory muscle use. CTAB, no 
+crackles, wheezes or rhonchi.  
+ABD: mildly distended, there was tenderness on her right side of 
+abd with no rebound tenderness.  There was a possible mass on 
+the RLQ abd.  BS was hyperactive.  + ascites.  
+MSK: normal muscle tone and bulk
+EXT: No c/c/e, 2+ ___ bilaterally
+SKIN: No rash, warm skin
+NEURO: oriented x 3, normal attention, CN II-XII intact, except 
+for ptosis on R (old), ___ strength throughout, intact sensation 
+
+to light touch, not able to ambulate due to pain
+PSYCH: appropriate
+.
+DISCHARGE PHYSICAL EXAM:
+.
+VS:97.3 110/60 61 16 99% RA 
+GEN: Elderly woman in NAD, awake, alert  
+HEENT: EOMI, sclera anicteric, conjunctivae clear, OP moist and 
+without lesion
+NECK: Supple, no JVD  
+CV: RRR, normal S1, S2. No m/r/g.   
+CHEST: Resp unlabored, no accessory muscle use. CTAB, no 
+crackles, wheezes or rhonchi.  
+ABD: Moderately distended but not tense, no tenderness or 
+rebound.  Two ~1cm areas of induration at site of prior 
+paracenteses which are non-erythematous, non-warm, not 
+fluctuant, or particularly tender. Normal BS.  
+MSK: normal muscle tone and bulk
+EXT: No c/c/e, 2+ ___ bilaterally
+SKIN: No rash, warm skin
+NEURO: oriented x 3, normal attention, CN II-XII intact, except 
+for ptosis on R (old), ___ strength throughout, intact sensation 
+
+to light touch, not able to ambulate due to pain
+PSYCH: appropriate
+ 
+Pertinent Results:
+ADMISSION LABS:
+.
+___ 01:11AM   LACTATE-1.0
+___ 12:46AM OTHER BODY FLUID  TOT PROT-4.0
+___ 12:46AM OTHER BODY FLUID  ___ RBC-4175*
+___ 09:10PM   GLUCOSE-105* UREA N-7 CREAT-0.5 SODIUM-126* 
+POTASSIUM-3.1* CHLORIDE-86* TOTAL CO2-30 ANION GAP-13
+___ 09:10PM   estGFR-Using this
+___ 09:10PM URINE  HOURS-RANDOM
+___ 09:10PM URINE  GR HOLD-HOLD
+___ 09:10PM   WBC-8.3# RBC-4.98 HGB-13.7 HCT-39.9 MCV-80* 
+MCH-27.6 MCHC-34.4 RDW-13.8
+___ 09:10PM   NEUTS-77.6* LYMPHS-13.4* MONOS-7.5 EOS-0.9 
+BASOS-0.5
+___ 09:10PM   PLT COUNT-339
+___ 09:10PM URINE  COLOR-Yellow APPEAR-Clear SP ___
+.
+PERTINENT LABS:
+.
+___ 06:50AM BLOOD Glucose-111* UreaN-6 Creat-0.5 Na-125* 
+K-3.0* Cl-86* HCO3-32 AnGap-10
+___ 06:50AM BLOOD TSH-3.6
+___ 06:40AM BLOOD Osmolal-263*
+___ 02:16AM URINE Osmolal-403
+___ 09:10PM URINE Blood-NEG Nitrite-NEG Protein-TR 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-6.5 Leuks-SM 
+___ 12:46AM OTHER BODY FLUID ___ RBC-4175* Polys-17* 
+Lymphs-25* Monos-0 Eos-5* Mesothe-13* Macro-37* Other-3*
+___ 02:16AM URINE Hours-RANDOM Creat-48 Na-108 K-25 Cl-125
+___ 11:31PM URINE Hours-RANDOM Creat-26 Na-13 K-24 Cl-24
+.
+DISCHARGE LABS:
+.
+___ 07:16AM BLOOD WBC-6.1 RBC-4.16* Hgb-11.8* Hct-34.4* 
+MCV-83 MCH-28.3 MCHC-34.2 RDW-14.0 Plt ___
+___ 07:16AM BLOOD Plt ___
+___ 07:16AM BLOOD Glucose-110* UreaN-5* Creat-0.4 Na-129* 
+K-3.8 Cl-92* HCO3-29 AnGap-12
+___ 07:16AM BLOOD ALT-11 AST-16 LD(LDH)-123 AlkPhos-50 
+TotBili-0.3
+___ 07:16AM BLOOD Albumin-3.0* Calcium-8.4 Phos-3.3 Mg-1.7
+.
+MICRO/PATH:
+.
+Peritoneal Fluid ___:
+GRAM STAIN (Final ___: 
+2+   ___ per 1000X FIELD):   POLYMORPHONUCLEAR LEUKOCYTES. 
+NO MICROORGANISMS SEEN. 
+FLUID CULTURE (Final ___:    NO GROWTH. 
+ANAEROBIC CULTURE (Final ___:    NO GROWTH.
+.
+Blood Cultures ___: Negative x 2
+.
+Omental cake, biopsy (A) ___: 
+Metastatic adenocarcinoma, see note. 
+Note:  The tumor is poorly differentiated with signet ring 
+morphology. Tumor cells are negative for ER, PR, WT1 (staining 
+in stroma and mesothelial cells only) and CDX-2.  Likely primary 
+site include gastrointestinal tract or possibly ovary.
+.
+Gastric body mass, biopsies ___: 
+Poorly differentiated adenocarcinoma with signet ring cells.
+.
+IMAGING:
+.
+CT of abd (___):
+Large ascites and omental caking/peritoneal implants raise 
+concern 
+for malignany, possibly due to colonic primary given eccentric 
+wall thickening in the transverse colon. The rectum and sigmoid 
+colon are normal. The uterus is grossly  normal with numerous 
+collaterals and a distended left ovarian vein. There is no 
+pelvic or inguinal lymphadenopathy. The ovaries appear normal 
+with a focal calcification in the right ovary
+.
+CT Abd/Pelv ___:
+IMPRESSION: 
+1. Large volume ascites with omental and peritoneal implants 
+compatible with malignancy. 
+2. New loculated fluid collection within the right anterior 
+abdominal wall with adjacent stranding may relate to recent 
+paracentesis and given the adjacent inflammation, superimposed 
+infection cannot be excluded. 
+3. Focal clot within a left gonadal vein.
+. 
+ 
+Brief Hospital Course:
+___ female with PMH of HTN, A-flutter, with recently  
+diagnosed malignant ascites with adenocarcinoma cells (of 
+unknown primary) with CT demonstrating peritoneal implants and 
+transverse colon thickening. Transvaginal ultrasound unable to 
+identify ovaries due to excess ascitic fluid. She now presents 
+with a sudden onset of right sided abdominal 
+pain/constipation/obstipation, and dx paracentesis suggestive of 
+SBP.  
+.
+Active Diagnoses:
+.
+#Stage IV Poorly Differentiated Gastric Adenocarcinoma with 
+signet ring features: Ms. ___ was admitted with abdominal 
+pain and constipation and found to have evidence of widely 
+metastatic adenocarcinoma of unknown primary throughout her 
+peritoneum. Differential diagnosis included colonic despite 
+negative colonoscopy, ovarian (given poor visualization by 
+vaginal ultrasound), primary peritoneal, or upper GI source. An 
+___ biopsy taken from omental caking was positive for 
+adenocarcinoma (confirming ascitic fluid cytology results). 
+Given the patient's significant history of gastritis, EGD was 
+performed which showed larged gastric tumor which was biopsied 
+with pathology significant for poorly differentiated gastric 
+adenocarcinoma with signet ring features. She was discharged 
+with outpatient follow-up with Dr. ___ futher management 
+of her malignancy.
+.
+#Malignant Ascites/Abdominal Pain/Obstipation: On admission Ms. 
+___ complained of abdominal pain and lack of BM's or flatus 
+for several days which raised concern for SBO despite lack of 
+SBO on CT abdomen performed in ED. She was also found to have 
+tense ascites and underwent diagnostic paracentesis in the ED 
+which showed ascitic fluid which a high white count and >250 
+poly's despite being lymphocyte predominant which raised concern 
+for bacterial peritonitis from paracentesis performed during 
+prior admission. She was also found to have a loculated 
+abdominal wall mass at the site of her prior paracentesis. She 
+was afebrile, alert and oriented, and did not have diffuse 
+abdominal tenderness on exam. Additionally, the site of her 
+loculated fluid collection was not particularly warm, 
+erythematous, tender, or fluctuant. She was started on IV 
+ceftriaxone emprirically pending culture results of her dx para 
+fluid and ceftriaxone was d/c'd when her cultures came back 
+negative. She underwent therapeutic paracentesis which removed 
+~1.5L of fluid and greatly improved her abdominal discomfort and 
+constipation. She was also given an aggressive bowel regimen and 
+was able to pass BM's and flatus frequently.  
+.  
+# Hx of Aflutter: Per Dr. ___ had one known episode of 
+aflutter while previously hospitalized and is not currently in 
+aflutter and probably hasn't been since. As a result, it was 
+determined that she did not require anticoagulation as her risk 
+for bleeding was thought to outweigh her risk for cardioembolic 
+event. Her home warfarin was d/c'd and she was given instruction 
+to follow-up with her outpatient providers for further 
+discussion of this issue.  
+.  
+#Hyponatremia/Hypokalemia: This was a new finding for this 
+patient with a Na of 129. It remained stable after placing her 
+on a 1.2L fluid restriction.  
+.
+Chronic Diagnoses: 
+.
+# Heartburn: Stable, likely related to or contributing to 
+formation of her gastric cancer. She was treated symptomatically 
+with pantoprazole, maalox, and tums  
+.
+Transitional Issues: Ms. ___ was discharged with close 
+follow-up with Dr. ___ continued outpatient management 
+of her newly diagnosed gastric cancer. She was also advised to 
+discuss the discontinuation of her warfarin with her PCP.
+ 
+Medications on Admission:
+Timolol 0.5 % Eye Drops one drop bid ___ per ___, MD here 
+for pt record
+ 
+Pravastatin 40 mg Tab 1 Tablet(s) by mouth daily
+   
+Triamcinolone Acetonide 0.1 % Ointment Apply to affeceted area 
+twice a day
+   
+Hydrochlorothiazide 25 mg Tab 1 Tablet(s) by mouth daily
+   
+omeprazole 20 mg Cap, Delayed Release 1 Capsule(s) by mouth 
+daily
+   
+Warfarin 5 mg Tab 2 Tablet(s) by mouth daily
+
+   
+Amlodipine 10 mg Tab 1 Tablet(s) by mouth daily
+ 
+
+ 
+Discharge Medications:
+1. amlodipine 5 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).  
+
+2. omeprazole 40 mg Capsule, Delayed Release(E.C.) Sig: One (1) 
+Capsule, Delayed Release(E.C.) PO once a day.  
+3. timolol maleate 0.5 % Drops Sig: One (1) Drop Ophthalmic BID 
+(2 times a day).  
+4. pravastatin 20 mg Tablet Sig: Two (2) Tablet PO DAILY 
+(Daily).  
+5. calcium carbonate 200 mg calcium (500 mg) Tablet, Chewable 
+Sig: One (1) Tablet, Chewable PO QID (4 times a day) as needed 
+for heartburn.
+Disp:*1 pack* Refills:*0*
+6. acetaminophen 500 mg Tablet Sig: One (1) Tablet PO every six 
+(6) hours as needed for pain.
+Disp:*1 bottle* Refills:*0*
+7. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 
+times a day).
+Disp:*1 bottle* Refills:*0*
+8. senna 8.6 mg Tablet Sig: Two (2) Tablet PO BID (2 times a 
+day) as needed for constipation.
+Disp:*1 bottle* Refills:*0*
+9. alum-mag hydroxide-simeth 200-200-20 mg/5 mL Suspension Sig: 
+___ MLs PO QID (4 times a day) as needed for stomach ache.
+Disp:*1 bottle* Refills:*0*
+10. prochlorperazine maleate 5 mg Tablet Sig: ___ Tablets PO 
+every eight (8) hours as needed for nausea.
+Disp:*20 Tablet(s)* Refills:*0*
+11. oxycodone 5 mg Tablet Sig: One (1) Tablet PO every four (4) 
+hours as needed for pain: Hold for sedation or slow breathing.
+Disp:*20 Tablet(s)* Refills:*0*
+12. triamcinolone acetonide 0.1 % Ointment Sig: One (1) 
+application Topical twice a day: Apply to affected areas twice 
+daily.  
+13. hydrochlorothiazide 25 mg Tablet Sig: One (1) Tablet PO once 
+a day.  
+14. Miralax 17 gram Powder in Packet Sig: One (1)  PO once a day 
+as needed for constipation.
+Disp:*1 package* Refills:*0*
+15. Dulcolax 10 mg Suppository Sig: One (1)  Rectal once a day 
+as needed for constipation.
+Disp:*1 package* Refills:*0*
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary: 
+Presumptive metastatic stomach cancer
+Recurrent malignant ascites
+Hyponatremia (as a result of malignant ascities)
+
+Seconary:
+Remote hx of atrial flutter (previously on warfarin)
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Mrs. ___,
+
+___ was a pleasure caring for you. You were admitted with 
+abdominal pain and constipation. We did a paracentesis to drain 
+fluid from your belly and your symptoms improved. You were 
+treated briefly with IV antibiotics for concern of an infection 
+of the fluid in your belly but the cultures of that fluid did 
+not grow bacteria.  We performed an omental biopsy and then an 
+EGD study with biopsies of a stomach tumor. You are being 
+discharged home with a follow-up appointment on ___ with Dr. 
+___ in clinic.  
+.
+We made the following changes to your medications:
+-STOP Warfarin
+-INCREASE Omeprazole to 40mg PO daily
+-START Calcium carbonate 500mg tabs by mouth 4 times a day as 
+needed for heartburn
+-START Maalox ___ by mouth as needed for heartburn
+-START Tylenol ___ by mouth every 6 hours as needed for pain
+-START Oxycodone 5mg by mouth every 4 hours as needed for pain
+-START Compazine 5mg ___ by mouth every 8 hours as needed for 
+nausea
+-START Colace 100mg by mouth twice daily
+-START Senna 2 tabs by mouth twice daily as needed for 
+constipation
+-START Miralax 15ml by mouth daily as needed for constipation
+-START Dulcolax 10mg suppository once daily as needed for 
+conspitation
+.
+Please see below for your upcoming appointments. We hope you 
+have a speedy recovery and enjoy your birthday party. Please 
+discuss with your primary care doctor (___) the issue of 
+your heart and warfarin. 
+ 
+Followup Instructions:
+___
+"
+10130937-DS-21,10130937,26669161,DS,21,2130-04-23 00:00:00,2130-04-25 16:54:00," 
+Name:  ___.                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins / Lisinopril / Shellfish Derived
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Tachycardia, shortness of breath
+ 
+Major Surgical or Invasive Procedure:
+PleurX abdominal catheter placement ___
+
+ 
+History of Present Illness:
+Patient is an ___ year-old ___ speaking female with a 
+history of recently diagnosed gastric adenocarcinoma with mets 
+to the peritoneum, recurrent abdominal ascites, atrial flutter, 
+who presented ___ for elective pleurex catheter placement into 
+the peritoneum.  Her ascites was drained 5 days prior to 
+admission, and since that procedure, she has had increasing poor 
+appetite and fluid intake.  In the intake suite, she was found 
+to be tachycardic to 160s. At that time, she was completely 
+asymptomatic without chest pain, palpitations, and had only mild 
+shortness of breath comparable to her baseline.  She was taken 
+to the ER for further management.  
+.  
+In the ED, initial vs were: HR 161 134/71 20 100% 4L. ECG showed 
+atrial flutter at 154. Patient was given 2L NS, HR remained in 
+150s. She was given 15 mg IV diltiazem with initial improvement 
+of HR into ___, then resturned to 100s. placed on a diltiazem 
+drip. She was then given 30 mg PO diltiazem, another 15 IV dilt, 
+then started on diltiazem drip at 10 cc/hr, still in atrial 
+flutter. CTA showed bilateral PE, no RV strain. After discussion 
+with the family, decision was made to start a heaprin drip and 
+she was transferred to the ICU for rate control.  In the ICU, 
+after initial attempt to transition to oral diltiazem was 
+unsuccessful, a second attempt was effective, and she was able 
+to be transferred to the floor without any incident.  At that 
+time, she felt well and was stable.  Of note, after discussion 
+with the patient and her family about the risks and benefits of 
+anticoagulation for PEs including need for blood tets for 
+monitoring, they elected to not pursue anticoagulation therapy.  
+
+
+(+) Per HPI  
+(-) Denies fever, chills, night sweats, recent weight loss or 
+gain. Denies headache, sinus tenderness, rhinorrhea or 
+congestion. Denies cough, shortness of breath, or wheezing. 
+Denies chest pain, chest pressure, palpitations, or weakness. 
+Denies nausea, vomiting, diarrhea, constipation, abdominal pain, 
+or changes in bowel habits. Denies dysuria, frequency, or 
+urgency. Denies arthralgias or myalgias. Denies rashes or skin 
+changes.  
+
+ 
+Past Medical History:
+1. Gastric adenocarcinoma, stage IV.  
+2. Hypertension.  
+3. Hypercholesterolemia.  
+4. Atrial flutter - Docum,ented once in ___ during 
+hospitalization, resolved, was on coumadin, then discontinued  
+5. Ocular hypertension.  
+6. Hyponatremia.  
+
+ 
+Social History:
+___
+Family History:
+The patient's granddaughter recently died of colon cancer at ___ 
+years. Her father died of an MI in his ___. Her mother died of 
+CHF in her ___. She has one sister who has allergies and history 
+of scarlet fever. She has 12 children, 11 currently living. 
+ 
+Physical Exam:
+FEX ON ADMISSION
+Vitals: Afebrile, HR 77  bp 126/61  RR 18, SaO2 100% RA  ICU 
+stay +2.4 liters
+General: Alert, oriented, no acute distress  
+HEENT: Sclera anicteric, MMM, oropharynx clear  
+Neck: supple, JVP not elevated, no LAD  
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+ronchi  
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Abdomen: soft, non-tender, distended, bowel sounds present, no 
+rebound tenderness or guarding, no organomegaly  
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+Skin: no lesions or edema
+Neuro: no focal deficits
+Psych: cooperative, pleasant
+
+FEX ON DISCHARGE (Prior to PleurX placement)
+VS: Tm 98.2 Tc 96.8 110/54 91 18 99%RA
+General: Pleasant elderly woman. Alert, oriented, no acute 
+distress  
+HEENT: Sclera anicteric, MMM, oropharynx clear  
+Neck: supple, JVP not elevated, no LAD  
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+ronchi  
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Abdomen: Moderately distended and tense. Nontender. Several 
+poorly defined hard non tender masses palapted over abdomen
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema 
+ 
+Pertinent Results:
+___ 10:57AM BLOOD WBC-8.7 RBC-4.69 Hgb-13.4 Hct-38.5 MCV-82 
+MCH-28.6 MCHC-34.9 RDW-14.2 Plt ___
+___ 05:45AM BLOOD WBC-7.3 RBC-4.27 Hgb-12.2 Hct-36.8 MCV-86 
+MCH-28.5 MCHC-33.1 RDW-14.8 Plt ___
+
+___ 10:57AM BLOOD ___
+___ 06:05AM BLOOD ___
+
+___ 10:57AM BLOOD Glucose-124* UreaN-16 Creat-0.6 Na-126* 
+K-4.8 Cl-90* HCO3-28 AnGap-13
+___ 05:45AM BLOOD Glucose-102* UreaN-16 Creat-0.6 Na-133 
+K-4.1 Cl-99 HCO3-23 AnGap-15
+
+___ 10:57AM BLOOD ALT-8 AST-18 AlkPhos-62 TotBili-0.3 
+DirBili-0.1 IndBili-0.2
+
+___ 10:57AM BLOOD Albumin-3.0*
+
+___ 05:45AM BLOOD Calcium-8.3* Phos-3.0 Mg-2.4
+
+___ 12:00PM URINE Color-Yellow Appear-Clear Sp ___
+___ 12:00PM URINE Blood-NEG Nitrite-NEG Protein-TR 
+Glucose-NEG Ketone-10 Bilirub-NEG Urobiln-NEG pH-6.0 Leuks-TR
+___ 12:00PM URINE ___ ___ Yeast-NONE 
+___
+
+REPORTS
+EKG ___: Atrial fibrillation with a rapid ventricular 
+response, although there is some organized atrial activity. The 
+variable ventricular response suggests atrial fibrillation 
+(atrial flutter). No significant change compared to the previous 
+tracing except that the current ventricular response is more 
+variable suggesting the combination of atrial fibrillation and 
+flutter.
+
+EKG ___: The rate is much slower with persistent 
+flutter/fibrillation waves with a regular ventricular response 
+suggesting conducted atrial fibrillation.
+
+CXR ___: IMPRESSION: Bibasilar atelectasis and small 
+bilateral pleural effusions. Stable cardiomegaly.
+
+CTA Chest ___: IMPRESSION: Pulmonary emboli involving the 
+right middle and lower lobar as well as left lower lobar 
+pulmonary arteries without evidence of right heart strain. Small 
+bilateral simple pleural effusions are slightly increased.
+
+ 
+Brief Hospital Course:
+___ year old female with end stage gastric adenocarcinoma with 
+metastases to peritpneum and a history of atrial flutter 
+requesting comfort measures only who presents with atrial 
+flutter and PE prior to placement of PleurX abdominal catheter.
+
+ACTIVE ISSUES
+
+1. Atrial Flutter: Patient presented with palpitations and HR 
+>150 prior to placement of adbominal catheterization. Because 
+she was symptomatic from her atrial flutter, it was deemed 
+reasonable to rate control her. Patient initially controlled 
+with IV diltiazem drip and transitioned to 90mg diltiazem qid. 
+Rate was controlled to the 70's-100's with one asymptomatic runs 
+back to 150. Patient was discharged on 360mg diltiazem ER. No 
+anticoagulation prophylaxis on discharge as per patient's goals 
+of care.
+.  
+2. PE: Bilateral PE was visualized on CTA, likely precipitated 
+in setting of end-stage malignancy. There was no evidence of 
+hemodynamic compromise or RV strain. Patient was briefly started 
+in heparin drip. However, discussed with patient and her family 
+that treatment of a PE consists of heparin and ___ months of 
+coumadin or lovenox shots. Also explained that because of her 
+cancer, she has a high risk of developing more clots even while 
+on coumadin. Thus, because coumadin requires frequent blood 
+draws and carries a risk of bleed, this would not be consistent 
+with her goals of care. Heparin drip was discontinued on 
+transfer to floor
+.  
+3. Recurrent ascites: Likely secondary to malignancy. Patient 
+underwent PleurX abdominal catheter placement ___ for 
+palliation.
+.  
+4. Stage IV gastric adenocarcinoma. No further treatment under 
+current goals of care.  
+
+OUTSTANDING STUDIES
+-None
+
+ 
+Medications on Admission:
+OXYCODONE - 5 mg Tablet - ___ Tablet(s) by mouth every ___ hours 
+ 
+as needed for pain  
+Zofran 4mg PO q8 PRN nausea
+PROCHLORPERAZINE MALEATE - (Prescribed by Other Provider) - 10  
+mg Tablet - 1 Tablet(s) by mouth every eight (8) hours as needed 
+ 
+for nausea (take with oxycodone).  
+TIMOLOL - 0.5 % Drops - one drop bid ___ per ___, MD here 
+for  
+pt record  
+Medications - OTC  
+ACETAMINOPHEN - 500 mg Tablet - 1 Tablet(s) by mouth every six  
+(6) hours as needed for pain  
+DOCUSATE SODIUM - 100 mg Capsule - 1 Capsule(s) by mouth twice a 
+ 
+day  
+POLYETHYLENE GLYCOL 3350 [MIRALAX] - 17 gram Powder in Packet - 
+1  
+Powder(s) by mouth once a day as needed for constipation  
+SENNOSIDES [SENNA] - 8.6 mg Tablet - 2 Tablet(s) by mouth twice 
+a  
+day as needed for constipation  
+SODIUM CHLORIDE - 0.65 % Aerosol, Spray - 1 spray per nostril  
+twice daily  
+Mylanta 30 cc PO q6 PRN heartburn
+Tums 500mg PO TID
+ 
+Discharge Medications:
+1. lorazepam 0.5 mg Tablet Sig: One (1) Tablet PO every six (6) 
+hours as needed for nausea, anxiety, or sleeplessness.  
+2. omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1) 
+Capsule, Delayed Release(E.C.) PO once a day.  
+3. oxycodone 5 mg Capsule Sig: ___ Capsules PO every ___ hours 
+as needed for pain.  
+4. OxyContin 10 mg Tablet Extended Release 12 hr Sig: One (1) 
+Tablet Extended Release 12 hr PO every twelve (12) hours.  
+5. pravastatin 40 mg Tablet Sig: One (1) Tablet PO once a day.  
+6. prochlorperazine maleate 10 mg Tablet Sig: One (1) Tablet PO 
+every eight (8) hours as needed for nausea.  
+7. timolol 0.5 % Drops Sig: One (1)  Ophthalmic twice a day.  
+8. triamcinolone acetonide 0.1 % Ointment Sig: One (1) 
+application Topical twice a day.  
+9. Tylenol Extra Strength 500 mg Tablet Sig: One (1) Tablet PO 
+every six (6) hours as needed for pain.  
+10. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID 
+(2 times a day).  
+11. bisacodyl 10 mg Suppository Sig: One (1) suppository Rectal 
+once a day as needed for constipation.  
+12. Miralax 17 gram Powder in Packet Sig: ___ packet PO once a 
+day as needed for constipation.  
+13. sennosides 8.6 mg Tablet Sig: One (1) Tablet PO twice a day 
+as needed for constipation.  
+14. sodium chloride 0.65 % Aerosol, Spray Sig: One (1) spray 
+Nasal twice a day.  
+15. Zofran 4 mg Tablet Sig: One (1) Tablet PO every eight (8) 
+hours as needed for nausea.
+Disp:*30 Tablet(s)* Refills:*0*
+16. diltiazem HCl 360 mg Capsule, Extended Release Sig: One (1) 
+Capsule, Extended Release PO once a day.
+Disp:*30 Capsule, Extended Release(s)* Refills:*2*
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary: Recurrent ascites
+Secondary: Gastric adenocarcinoma, atrial flutter, pulmonary 
+embolism.
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+You were admitted to the hospital because you were about to have 
+a catheter placed in your abdomen to drain extra fluid, you 
+developed an abnormal heart rhythm called atrial fibrillation. 
+We controlled you heart rhythm with medications, and placed the 
+catheter. 
+
+While you were here we found blood clots in your lungs. After 
+discussing treatment options, which include frequent blood draws 
+or injections, you decided this did not fit with your goals of 
+care and declined treatment. 
+
+Ultimately the PleurX catheter was placed on ___. You 
+tolerated the procedure well. Your hospice team will come to 
+drain your abdomen as needed to help you feel comfortable.
+
+Please note the following changes to your medications:
+
+- START Diltiazem 360mg once a day.
+- START Zofran 4mg every 8 hours as needed for nausea
+- STOP Amlodipine
+- STOP Hydrochlorothiazide
+- STOP Furosemide (Lasix)
+
+No other changes were made to your medications. Please follow up 
+with your primary care doctor and oncologist as needed. It has 
+been a pleasure taking care of you.
+ 
+Followup Instructions:
+___
+"
+10130937-DS-22,10130937,29454792,DS,22,2130-05-11 00:00:00,2130-06-02 18:27:00," 
+Name:  ___.                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins / Lisinopril / Shellfish Derived
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Abdominal pain
+
+ 
+Major Surgical or Invasive Procedure:
+none
+ 
+History of Present Illness:
+___ year old female with stage IV gastric adenocarcinoma with 
+recent PE diagnosis who presents with shortness of breath and 
+decreased abdominal Pleurx drainage.
+.
+She was recently admitted ___ to ___ with atrial flutter 
+and shortness of breath.  She was treated for atrial flutter 
+with a diltiazem drip and then oral diltiazem.  She also was 
+initially heparinized for her PE but per the discharge summary, 
+frequent blood draws or injections would not be consistent with 
+her goals of care and anticoagulation was discontinued.  She 
+also had a Pleurx abdominal catheter placed for palliation due 
+to recurrent ascites.
+.
+She reports having intermittent abdominal pain around the site 
+of the Pleurx since discharge.  She then had progressive 
+shortness of breath over the last ___ days which worsened this 
+AM and prompted her to present to the ED.  She also reports that 
+her ___ went to drain her Pleurx today which didn't drain as 
+much as usual and this worried her.  She does report pleuritic 
+left sided chest pain with deep inspiration but no baseline 
+chest pain.  She has felt weak for the last several weeks.  20 
+lb weight loss since ___.  Denies current abdominal pain, 
+nausea, vomiting, or change in BM.  Does report frequent 
+burping.  Also has new bedsore.  She can walk only with 
+assitance.  Her Pleurx is drained every other day, about 1.5-2L 
+at a time.  Endorses low appetite.
+.
+In the ED, she was found to be in Afib with RVR with HR 150's.  
+She also complained of abdominal pain. CTA chest and abdomen 
+were performed which confirmed PE but also showed gas in the 
+peritoneum.  Surgery was consulted for the gas pattern.  She was 
+given vancomycin, cefepime, and levofloxacin.  She was given 
+10mg IV dilt x 2 for RVR.  She was started on a heparin drip.  
+She was guaiac negative.  Last vitals 97.8 113 90/48 20 99%RA.  
+She was confirmed DNR/DNI.
+.  
+On arrival to the MICU, she reports feeling fatigued and mildly 
+SOB.  Denies other symptoms.
+.  
+Review of systems:  
+(+) Per HPI  
+(-) Denies fever, chills, night sweats. Denies headache, sinus 
+tenderness, rhinorrhea or congestion. Denies cough or wheezing. 
+Denies nausea, vomiting, diarrhea, constipation, or changes in 
+bowel habits. Denies dysuria, frequency, or urgency. Denies 
+arthralgias or myalgias. Denies rashes or skin changes.  
+
+ 
+Past Medical History:
+Gastric adenocarcinoma, stage IV, not treated
+Hypertension
+Hypercholesterolemia
+Atrial flutter, on coumadin in the past
+Ocular hypertension
+Hyponatremia
+
+ 
+Social History:
+___
+Family History:
+The patient's granddaughter recently died of colon cancer at ___ 
+years. Her father died of an MI in his ___. Her mother died of 
+CHF in her ___. She has one sister who has allergies and history 
+of scarlet fever. She has 12 children, 11 currently living. 
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+General: Lethargic but arousable and oriented, no acute distress 
+ 
+HEENT: Sclera anicteric, MM slightly dry with mild thrush, 
+otherwise oropharynx clear
+Neck: Supple, JVP not elevated, no LAD
+CV: Irregularly irregular without no murmurs, rubs, gallops  
+Lungs: Scant crackles at the bases with decreased breath sounds 
+throughout 
+Abdomen: Firm with palpable masses throughout abdomen consistent 
+with known peritoneal metastases, no rebound/guarding.  Pleurx 
+in place in LUQ.  BS+
+GU: Foley in place  
+Ext: Warm, well perfused with dependent pitting edema but no 
+calf swelling or tenderness, 1+ pulses palpable
+
+FEX ON DISCHARGE
+VS: 96.2 102/50 78 16 99% 3LNC
+Gen: chronically ill appearing, cachectic
+HEENT: EOMI, dry MM
+Neck: supple, no cervical
+CV: irreg irreg, no mrg, nls1s2
+Pulm: decreased breath sounds at b/l bases with overlying 
+crackles
+Abd: distended, non tender, distent bowel sounds, no rebound
+Ext: right ___ cooler than left +2 DP pulses, ___ edema to knees 
+b/l
+ 
+Pertinent Results:
+LABS:
+ 
+On admission:
+___ 12:25PM BLOOD WBC-7.7 RBC-5.06 Hgb-14.1 Hct-42.5 MCV-84 
+MCH-27.9 MCHC-33.2 RDW-15.2 Plt ___
+___ 12:25PM BLOOD Neuts-84.1* Lymphs-12.1* Monos-3.1 
+Eos-0.6 Baso-0.2
+___ 12:25PM BLOOD Glucose-114* UreaN-21* Creat-0.8 Na-130* 
+K-5.8* Cl-97 HCO3-22 AnGap-17
+___ 01:00AM BLOOD ALT-11 AST-7 AlkPhos-17* TotBili-0.0
+___ 12:25PM BLOOD cTropnT-<0.01
+___ 01:00AM BLOOD Calcium-7.8* Phos-2.7 Mg-2.0
+___ 12:46PM BLOOD Lactate-2.5*
+  
+Pertinent labs: 
+   
+IMAGING:
+ 
+CXR:  Interval development of moderate-to-large left pleural 
+effusion 
+and persistent small right pleural effusion with bibasilar 
+airspace opacities, likely atelectasis though infection is not 
+excluded. Mild pulmonary vascular congestion. 
+ 
+CT chest/abd/pelvis: 
+1. Interval development of hyperenhancement and thickening of 
+the peritoneum with large volume loculated ascites raises 
+concern for peritonitis. Presence of gas within peritoneum could 
+be due to indwelling catheter though gas forming organism cannot 
+be excluded. This finding was discussed with ___ 
+at 19:24 on ___ by ___ over the phone. 
+2. Small bowel wall thickening likely reactive given the concern 
+for infected peritoneal fluid. No bowel obstruction.  
+3. Unchanged bilateral pulmonary emboli. 
+4. Increased bilateral pleural effusions with associated lower 
+lobe consolidation, likely reflects atelectasis and aspiration. 
+5. Extensive peritoneal carcinomatosis.  
+
+Urine:
+___ 02:20AM URINE Color-Yellow Appear-Clear Sp ___
+___ 02:20AM URINE Hours-RANDOM UreaN-402 Creat-36 Na-14 
+K-39 Cl-38
+___ 02:20AM URINE Osmolal-386
+___ 02:24PM ASCITES WBC-825* RBC-3325* Polys-65* Lymphs-7* 
+Monos-21* Macroph-7*
+
+Ascites
+___ 02:24PM ASCITES LD(LDH)-273 Albumin-LESS THAN 
+
+Microbiology
+___ PERITONEAL FLUID GRAM STAIN-FINAL; FLUID 
+CULTURE-FINAL; ANAEROBIC CULTURE-FINAL {BACTEROIDES FRAGILIS 
+GROUP} INPATIENT
+___ URINE URINE CULTURE-FINAL {YEAST} 
+INPATIENT
+___ MRSA SCREEN MRSA SCREEN-FINAL INPATIENT
+___ BLOOD CULTURE Blood Culture, 
+Routine-FINAL EMERGENCY WARD
+ 
+Brief Hospital Course:
+___ year old female with stage IV gastric adenocarcinoma who 
+presents with worsening shortness of breath, atrial fibrillation 
+with RVR, and pneumoperitoneum.
+.
+#. Shortness of Breath/Pulmonary Embolus: shortness of breath 
+and pleuritic chest pain likely related to known PE, confirmed 
+on CTA.  She was mildly hypoxic (92% on RA) but in no 
+respiratory distress.  After discussion with the patient and her 
+family, they opted to start anticoagulation (they had reportedly 
+declined last admission).  Lovenox was started and provided to 
+patient upon discharge.
+.
+#. Atrial fibrillation with RVR: HR to 150s in the ED, given 
+10mg IV dilt x 2 and 30mg po dilt with some response (HR 
+decreased to 120s).  In the MICU she was continued on home 
+diltiazem 90mg po qid with PRN IV dilt for rate control as well 
+as fluids.  Anticoagulation as above.
+.
+#. Pneumoperitoneum/non-draining pleurex: Found to have locules 
+of gas within ascites on abdominal CT scan, which was initially 
+felt to be due to catheter placement rather than perforation 
+given her benign abdominal exam.  A small amount of ascitic 
+fluid was sampled and showed 825 WBCs (65% polys), cultures were 
+sent, and she was started on vancomycin and ceftriaxone for 
+presumed bacterial peritonitis. Culture grew bacteroides 
+fragilis. ___ re-examined the CT abdomen, and felt that the 
+pleurex catheter looked like it had been placed through her 
+colon. Therefore they say that they cannot pull the catheter for 
+it will leave two open holes in her colon in communication with 
+her peritoneum.  Therefore, they said, that a functional study 
+of it is not worth while.  The ___ attending advised the ACS 
+attending, and decision to leave catheter in place was discussed 
+with family. On the floor, patient was switched to cipro and 
+flagyl prior to discharge.
+.
+#. Stage IV Gastric Adenocarcinoma: Focusing on palliation 
+currently as has extensive disease. Remeron was started to help 
+stimulate appetite.
+.
+#. Hyponatremia: At recent baseline. Thought to be possibly 
+exacerbated by poor po intake and patient was provided IVF's.
+.  
+#. Elevated lactate: Had to lactate 2.5, trended down to 1.8 on 
+recheck.
+
+OUTSTANDING STUDIES
+-None
+
+TRANSITIONAL ISSUES
+-Discharged to home hospice
+
+ 
+Medications on Admission:
+Lorazepam 0.5mg po q6h prn
+Omeprazole 20mg po daily
+Oxyocodone ___ po q4-6h prn
+Oxycontin 10mg po q12h
+Pravastatin 40mg po daily
+Prochlorperazine 10mg po q8h prn nausea
+Timolol 0.5% ophthalmic bid
+Triamcinolone 0.1% ointment topical bid
+Tylenol ___ po q6h prn pain
+Docusate 100mg po bid
+Bisacodyl 10mg pr prn constipation
+Miralax 17g ___ packet po daily prn constipation
+Senna 8.6mg po bid prn constipation
+NaCl 0.65% spray nasally twice daily
+Zofran 4mg po q8h prn nausea
+Diltiazem ER 360mg po daily
+
+ 
+Discharge Medications:
+1. enoxaparin 100 mg/mL Syringe Sig: Ninety (90) mg Subcutaneous 
+Q24H (every 24 hours).
+Disp:*qs 2 weeks* Refills:*4*
+2. lorazepam 0.5 mg Tablet Sig: One (1) Tablet PO Q6H (every 6 
+hours) as needed for anxiety.  
+3. omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1) 
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).  
+4. oxycodone 5 mg Tablet Sig: ___ Tablets PO every ___ hours as 
+needed for pain.  
+5. oxycodone 10 mg Tablet Extended Release 12 hr Sig: One (1) 
+Tablet Extended Release 12 hr PO every twelve (12) hours.  
+6. pravastatin 20 mg Tablet Sig: Two (2) Tablet PO HS (at 
+bedtime).  
+7. prochlorperazine maleate 10 mg Tablet Sig: One (1) Tablet PO 
+Q6H (every 6 hours) as needed for nausea.  
+8. timolol maleate 0.5 % Drops Sig: One (1) Drop Ophthalmic BID 
+(2 times a day).  
+9. triamcinolone acetonide 0.1 % Ointment Sig: One (1) 
+application Topical twice a day as needed for rash.  
+10. Tylenol Extra Strength 500 mg Tablet Sig: One (1) Tablet PO 
+every six (6) hours as needed for pain.  
+11. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID 
+(2 times a day).  
+12. bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2) 
+Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed for 
+constipation.  
+13. polyethylene glycol 3350 17 gram/dose Powder Sig: One (1) 
+packet PO DAILY (Daily) as needed for constipation.  
+14. sennosides 8.6 mg Tablet Sig: One (1) Tablet PO twice a day 
+as needed for constipation.  
+15. sodium chloride 0.65 % Aerosol, Spray Sig: ___ Sprays Nasal 
+BID (2 times a day) as needed for dry nose.  
+16. Zofran 4 mg Tablet Sig: One (1) Tablet PO every eight (8) 
+hours as needed for nausea.  
+17. Diltzac ER 360 mg Capsule, Extended Release Sig: One (1) 
+Capsule, Extended Release PO once a day.  
+18. mirtazapine 15 mg Tablet Sig: One (1) Tablet PO HS (at 
+bedtime): Take to increase appetite.
+Disp:*30 Tablet(s)* Refills:*2*
+19. ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO Q12H 
+(every 12 hours) for 6 days.
+Disp:*12 Tablet(s)* Refills:*0*
+20. metronidazole 500 mg Tablet Sig: One (1) Tablet PO Q8H 
+(every 8 hours) for 6 days.
+Disp:*18 Tablet(s)* Refills:*0*
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary: Abdominal pain
+
+Secondary: Metastatic gastric adenocarcinoma
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Out of Bed with assistance to chair or 
+wheelchair.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+You were admitted to the hospital because you had decreased 
+output from your pleurX catheter and abdominal pain. A CT scan 
+of your belly was concerning for either perforation of your 
+colon or the catheter lying very close to the colon. However, 
+since your abdominal pain got better and you didn't have any 
+fevers we decided the best approach was to not disturb the 
+catheter, which you can continue to use. We will give you some 
+antibiotics for the next several days to help prevent infection.
+
+Additionally, your heart rate was noted to be high and in an 
+abnormal rhythm called atrial fibriallation. We provided you 
+with a continous drip of medicine to slow your heart rate, and 
+it resolved. We will continue on medicine to help control your 
+heart rate.
+
+Please note the following medication changes:
+START Ciprofloxacin 500mg twice daily through ___
+START Flagyl: 500mg three times a day ___
+START Lovenox 90mcg once daily indefinitely
+START Mirtazipine 15mg every evening to help your appetite
+ 
+Followup Instructions:
+___
+"
+10132419-DS-15,10132419,23821029,DS,15,2149-01-12 00:00:00,2149-01-12 21:13:00," 
+Name:  ___.              Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+chest pain
+ 
+Major Surgical or Invasive Procedure:
+PPM placement ___
+Blood Transfusion
+
+ 
+History of Present Illness:
+Mr. ___ is ___ with history of dementia (AAOx2 at 
+baseline), HTN, HLD who was sent in from his ___ with SOB and 
+chest pain.  Per EMS, the patient reported having chest pain and 
+shortness of breath at the NH.  He also endorsed having L 
+shoulder pain. The patient's pain resolved prior to transport to 
+the ED.  As per EMS, the patient was still complaining of SOB en 
+route.
+
+Initial VS in the ED: 98.3 52 170/69 16. While in the ED, the 
+patient was noted to deny any chest pain. Unclear if his pain 
+was associated with exertion. He denied any fever, chills, 
+nausea, vomit, or diarrhea.  EKG while in the ED notable for LAD 
+with occassional PVCs. Labs in the ED notable for trop of 0.13, 
+and he started on heparin drip and given ASA 325 mg.   
+
+On arrival to the floor, the patient reports feeling well. 
+Denies any chest pain or tightness, no shortness of breath.  
+Reports feeling comfortable. His only complaint is that he feels 
+somewhat cold. 
+
+ 
+Past Medical History:
+1. CARDIAC RISK FACTORS: Diabetes -, Dyslipidemia +, 
+Hypertension +  
+2. OTHER PAST MEDICAL HISTORY:  
+cholelithiasis
+HTN
+HLD
+dementia
+
+ 
+Social History:
+___
+Family History:
+non contributory
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAMINATION:  
+VS: T=98.4 BP= 165-184/50-55 HR= 55 RR=20 O2 sat=100%RA  
+General: pleasant, well appearing, NAD, AAOx2 (oriented to self 
+and place, not date), appropriately answering some questions
+HEENT: OP clear, no lesions, bilateral surgical pupils, MMM  
+Neck:  JVP 9cm
+CV:  RRR, S1, S2 with resp variation, ___ LSB systolic murmur
+Lungs:  very limited exam with poor air entry
+Abdomen: soft, NT, ND, BS+, large, obese, well healed surgical 
+scars
+GU: no foley
+Ext: bilateral 2+ edema,   
+Neuro: AxOx2, motor strength not tested
+Skin: sebhorreic keratoses
+PULSES: 1+ ___, 2+ radial pulses 
+.
+.
+DISCHARGE PHYSICAL EXAM:
+VS: 98.4  129-173/57-59  ___ 18 97%RA
+Wt:  refused
+General: NAD, AAOx2 (oriented to self and place, not date)
+HEENT: OP clear, no lesions, bilateral surgical pupils, MMM  
+Neck: JVP 7cm
+CV:  RRR, S1, S2 with resp variation, ___ LSB systolic murmur
+Chest: PPM in place, dressing c/d/i, no tenderness, no 
+ecchymosis
+Lungs:  Crackles at bases. No wheezes. 
+Abdomen: Soft, NT, ND, BS+, large, obese
+GU: no foley
+Ext: Bilateral trace edema  
+Neuro: AxOx2, motor strength not tested
+Skin: Sebhorreic keratoses, gluteal fold erythema with dressing 
+in place
+PULSES: 1+ ___, 2+ radial pulses 
+ 
+Pertinent Results:
+Admission Labs: 
+___ 09:42AM BLOOD WBC-11.3* RBC-3.44* Hgb-8.6* Hct-26.2* 
+MCV-76* MCH-25.1* MCHC-33.0 RDW-14.2 Plt ___
+___ 09:42AM BLOOD Neuts-88.4* Lymphs-6.4* Monos-4.6 Eos-0.2 
+Baso-0.3
+___ 11:47PM BLOOD PTT-55.2*
+___ 09:42AM BLOOD Glucose-114* UreaN-34* Creat-2.0* Na-139 
+K-3.9 Cl-105 HCO3-23 AnGap-15
+___ 09:42AM BLOOD CK(CPK)-466*
+___ 09:42AM BLOOD CK-MB-9 proBNP-1234*
+___ 09:42AM BLOOD cTropnT-0.06*
+
+Trop trend: 
+___ 09:42AM BLOOD cTropnT-0.06*
+___ 04:10PM BLOOD cTropnT-0.13*
+___ 01:47AM BLOOD CK-MB-8 cTropnT-0.19*
+___ 08:50AM BLOOD CK-MB-8 cTropnT-0.22*
+
+Imaging: 
+CXR: Mild bibasilar atelectasis.  No acute cardiopulmonary 
+abnormality 
+otherwise demonstrated. 
+.
+ECHO: The left atrium is moderately dilated. The right atrium is 
+moderately dilated. No atrial septal defect is seen by 2D or 
+color Doppler. The estimated right atrial pressure is ___ mmHg. 
+There is mild symmetric left ventricular hypertrophy with normal 
+cavity size and regional/global systolic function (LVEF>55%). 
+Tissue Doppler imaging suggests a normal left ventricular 
+filling pressure (PCWP<12mmHg). Right ventricular chamber size 
+and free wall motion are normal. The aortic root is mildly 
+dilated at the sinus level. The descending thoracic aorta is 
+mildly dilated. The aortic valve leaflets (3) appear 
+structurally normal with good leaflet excursion and no aortic 
+stenosis or aortic regurgitation. The mitral valve leaflets are 
+mildly thickened. There is no mitral valve prolapse. Mild (1+) 
+mitral regurgitation is seen. There is no pericardial effusion. 
+
+IMPRESSION: Mild symmetric left ventricular hypertrophy with 
+preserved global and regional biventricular systolic function. 
+Mild mitral regurgitation. 
+ 
+Brief Hospital Course:
+Mr. ___ is ___ with history of dementia (AAOx2 at 
+baseline), HTN, HLD who was sent in from his ___ with SOB and 
+chest pain, found to have NSTEMI which was medically managed, 
+course complicated by tachy-brady syndome s/p PPM and GI bleed.
+.  
+# NSTEMI:  The patient ruled in for NSTEMI with trop of 0.16.  
+Given the patient's dementia and goals of care, it was decided 
+that medical management would be the best option. He was loaded 
+with Plavix and completed 48 hours on a heparin gtt. He had an 
+ECHO done which showed normal systolic function. 
+- follow up with cardiology
+.
+# Tachy-brady syndrome: Patient found to have episodes of atrial 
+fibrillation with rapid ventricular response in addition to 
+episodes of bradycardia. Goals of care discussion elicited that 
+it would be in the patient's benefit to undergo PPM placement. 
+PPM was placed on ___ without complication. After PPM 
+placement beta blockade was initiated to control further 
+episodes of afib with rapid ventricular response.
+.
+# Kidney injury: Patient with acute kidney injury in ___ was 
+1.4 that per office records he was supposed to repeat and had 
+not, of unclear etiology despite multiple attempts to elucidate 
+prior baseline and course of kidney injury. Patient was admitted 
+with Cr of 2.0 and thiazide was held. FeNa was 0.57% with urine 
+sodium of 58. He responded minimally to fluid challenge. Upon 
+discharge, Cr was 2.6.
+- recommend repeat labs drawn in one week to monitor Cr, labs to 
+be sent to MD following at ___
+.
+# HTN:  The patient was initially continued on metoprolol and 
+amlodipine when he was first admitted.  His thiazide was held in 
+the setting of his kidney injury. After developing bradycardic 
+episodes metoprolol was held until PPM placed and then 
+restarted. Hydralazine was increased for improved BP control. 
+.
+# Anemia/GI bleed: Patient was noted to have downtrending 
+hematocrit and guaiac positive stool. He received 1u PRBCs and 
+his hematocrit stabilized. GI was consulted, who felt risk of 
+colonoscopy in the initial 30 day period from ___ outweighed 
+potential benefits. Colonoscopy was deferred to the outpatient 
+setting should the family wish to pursue it. 
+- f/u with GI for colonoscopy 3 weeks after discharge
+.
+# Alzheimer's dementia: The patient has a history of Alzheimer's 
+dementia, AAOx2 at his baseline. While in house, he was 
+continued on his home medications, donepezil, memantine, and 
+olanazapine. Delirium precautions were taken, including 
+minimizing tethers, ensuring adequate pain control, frequent 
+reorientation, and orientation to day/night cycle. 
+.
+# Delirium: Patient developed delirium, likely in the setting of 
+PPM placement and extended hospital stay. Per family, patient 
+had become combative in the past and often a sign the patient 
+had the urge to urinate. No evidence of infection or 
+leukocytosis, and delirium resolved with frequent reorientation.
+.
+# Depression: Continued on his home citalopram 20 mg daily. 
+.
+# Fungal infection: The patient was noted to have fungal 
+infection in skin folds and he was continued on antifungal 
+powder.
+.
+# GERD: The patient's omeprazole was changed to pantoprazole in 
+the setting of starting Plavix and the potential interactions 
+between plavix and omeprazole.
+.
+Transitional Issues: 
+- Contacts: Dr. ___ ___
+- Code: DNR/DNI
+- follow up with cardiology
+- f/u with GI for colonoscopy 3 weeks after discharge
+- recommend repeat labs drawn in one week to monitor Cr, labs to 
+be sent to MD following at ___
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Donepezil 5 mg PO HS 
+2. Aspirin 81 mg PO DAILY 
+3. Citalopram 20 mg PO DAILY 
+4. Docusate Sodium 100 mg PO BID 
+5. Calcium Carbonate 500 mg PO DAILY 
+6. Acetaminophen 650 mg PO Q4H:PRN pain 
+7. Artificial Tears 2 DROP BOTH EYES TID 
+8. OLANZapine 5 mg PO DAILY 
+9. Hydrochlorothiazide 12.5 mg PO DAILY 
+please hold for SBP<100 
+10. HydrALAzine 10 mg PO Q6H 
+please hold for SBP<100 
+11. Atorvastatin 20 mg PO HS 
+12. Omeprazole 20 mg PO DAILY 
+13. Amlodipine 10 mg PO DAILY 
+please hold for SBP<100 
+14. Memantine 5 mg PO BID 
+15. Ketoconazole 2%  1 Appl TP BID 
+16. Metoprolol Tartrate 25 mg PO BID 
+17. Clotrimazole Cream 1 Appl TP BID rash 
+18. PreserVision AREDS *NF* (vitamins  A,C,E-zinc-copper) 
+___ unit-mg-unit Oral DAILY 
+19. Nystop *NF* (nystatin) 100,000 unit/gram Topical BID rash 
+
+ 
+Discharge Medications:
+1. Clopidogrel 75 mg PO DAILY 
+RX *clopidogrel 75 mg 1 tablet(s) by mouth daily Disp #*30 
+Tablet Refills:*0
+2. Acetaminophen 650 mg PO Q4H:PRN pain 
+3. Amlodipine 10 mg PO DAILY 
+4. Artificial Tears 2 DROP BOTH EYES TID 
+5. Aspirin 325 mg PO DAILY 
+RX *aspirin 325 mg 1 tablet,delayed release (___) by mouth 
+daily Disp #*30 Tablet Refills:*0
+6. Atorvastatin 80 mg PO HS 
+RX *atorvastatin 80 mg 1 tablet(s) by mouth daily Disp #*30 
+Tablet Refills:*0
+7. Calcium Carbonate 500 mg PO DAILY 
+8. Citalopram 20 mg PO DAILY 
+9. Docusate Sodium 100 mg PO BID 
+10. Donepezil 5 mg PO HS 
+11. Ketoconazole 2%  1 Appl TP BID 
+12. Memantine 5 mg PO BID 
+13. OLANZapine 5 mg PO DAILY 
+14. Pantoprazole 40 mg PO Q24H 
+RX *pantoprazole 40 mg 1 tablet,delayed release (___) by 
+mouth daily Disp #*30 Tablet Refills:*0
+15. Clotrimazole Cream 1 Appl TP BID rash 
+16. Nystop *NF* (nystatin) 100,000 unit/gram Topical BID rash 
+17. PreserVision AREDS *NF* (vitamins  A,C,E-zinc-copper) 
+___ unit-mg-unit Oral DAILY 
+18. Metoprolol Tartrate 200 mg PO BID 
+RX *metoprolol tartrate 100 mg 2 tablet(s) by mouth twice a day 
+Disp #*120 Tablet Refills:*0
+19. Isosorbide Mononitrate (Extended Release) 60 mg PO DAILY 
+RX *isosorbide mononitrate 60 mg 1 tablet extended release 24 
+hr(s) by mouth daily Disp #*30 Tablet Refills:*0
+20. HydrALAzine 100 mg PO Q8H 
+RX *hydralazine 100 mg 1 tablet(s) by mouth every 8 hours Disp 
+#*90 Tablet Refills:*0
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+primary diagnosis: NSTEMI, acute on chronic kidney injury 
+ 
+Secondary diagnosis: Alzheimer's dementia 
+
+ 
+Discharge Condition:
+Mental Status: Confused - sometimes.
+Level of Consciousness: Alert and interactive.
+Activity Status: Out of Bed with assistance to chair or 
+wheelchair.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure taking care of you while you were admitted to 
+___. You were admitted to the hospital because you had a heart 
+attack. We started you on blood thinning medications to help 
+treat your heart attack and adjusted your blood pressure 
+medications. 
+
+You also had an abnormal heart rhythm that required a pacemaker. 
+You tolerated the procedure well.
+
+You were also admitted with worsening kidney injury which was 
+noted in a previous doctor's visit in ___. This may be because 
+you are not eating and drinking as well as you once were. 
+
+Your blood levels dropped and you were found to have occult 
+blood in your stool. The gastroenterologists were consulted and 
+did not feel it would be necessary to intervene so soon after 
+your heart attack due to the risks. You should follow up with 
+the gastroenterologists in the next few weeks if you wish to 
+pursue colonoscopy to find the source of the bleeding. You 
+received a blood transfusion and your blood levels stabilized. 
+
+Please see the attached sheet for your updated medication list. 
+
+Please make sure to follow up with your doctors. 
+
+ 
+Followup Instructions:
+___
+"
+10134613-DS-17,10134613,20859441,DS,17,2113-05-27 00:00:00,2113-05-27 16:43:00," 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Allergies/ADRs on File
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Fall due to mechanical reasons vs. neuropathy
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ with HTN, HLD, who was sent from ___ urgent care s/p 
+fall today. Per patient she was walking outside and noted a 
+brief weakness in her legs and fell over into a pile of mulch. 
+She denies any chest pain, SOB, dizziness, palpitations, pain in 
+her back or legs, headache. She does note that since about 
+___ she has noticed a strange sensation in her legs, they 
+feel like they are wet on the inside (muscles) in the back of 
+her thighs. She also had a fall about 2 weeks ago with similar 
+symptoms and denies any trauma to her head. She has had 
+recurrent Iritis since ___ and had a recent flare in ___, on 
+eyedrops but states that her vision is completely back to 
+normal. Only recent medication changes are increase from 10 to 
+20mg po of lisinopril and decrease from 100 to 50mg po of 
+atenolol in ___ after seeing her PCP. She states she also 
+believes that her memory has been getting worse since she 
+started lisinopril this ___.  
+.  
+At ___ the patient was noted to have an 
+abnormal EKG(stated sinus arrythmia) so she was sent to the ED 
+for evaluation.  
+.  
+In the ED, initial vs were: 98.1 62 139/63 20 98% RA. Exam 
+without focal neurologic deficits. Labs notable for normal WBC, 
+HCT 35.9, electrolytes and creatinine except for potassium of 
+3.2. U/A without infection, but with ___ RBCs. EKG: NSR except 
+q wave in III. CT head without intracranial process.  
+Neuro was consulted and felt that she had posterior column signs 
+on exam and could follow up in urgent care clinic. Patient was 
+admitted to medicine for concern for arrythmia/inability to 
+walk.  
+.  
+On the floor, patient states she feels great.  
+.  
+Review of systems:  
+(+) Per HPI  
+(-) Denies fever, chills, night sweats, recent weight loss or 
+gain. Denies headache, sinus tenderness, rhinorrhea or 
+congestion. Denied cough, shortness of breath. Denied chest pain 
+or tightness, palpitations. Denied nausea, vomiting, diarrhea, 
+constipation or abdominal pain. No recent change in bowel or 
+bladder habits. No dysuria. Denied arthralgias or myalgias.  
+
+ 
+Past Medical History:
+Depression  
+Hyperlipidemia  
+Hypertension  
+Glaucoma  
+Iritis (on and off since ___, with recent recurrence in ___ 
+for which she is taking eyedrops.)  
+Osteoarthritis  
+Basal Cell CA s/p Mohs on left arm ___  
+L4/L5 back surgery in ___ (per patient?)  
+
+ 
+Social History:
+___
+Family History:
+Denies DM2, cancer or heart disease. 
+ 
+Physical Exam:
+Vitals: T:96.3 BP:159/75 P:6 R:16 O2:99% on RA  
+General: Alert, oriented, no acute distress  
+HEENT: Sclera anicteric, MMM, oropharynx clear. Right pupil 
+dilated, >left (chronic ___ iritis).  
+Neck: supple, JVP not elevated, no LAD  
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+ronchi  
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Abdomen: soft, non-tender, non-distended, bowel sounds present, 
+no rebound tenderness or guarding, no organomegaly  
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+ 
+Pertinent Results:
+ADMISSION LABS
+___ 04:55PM BLOOD WBC-6.4 RBC-4.53 Hgb-11.8* Hct-35.9* 
+MCV-79* MCH-26.1* MCHC-32.9 RDW-13.1 Plt ___
+___ 04:55PM BLOOD Neuts-61.7 ___ Monos-5.6 Eos-4.1* 
+Baso-0.5
+___ 04:55PM BLOOD ___ PTT-22.7 ___
+___ 04:55PM BLOOD Glucose-106* UreaN-24* Creat-0.8 Na-139 
+K-3.2* Cl-101 HCO3-30 AnGap-11
+___ 04:55PM BLOOD Calcium-9.1 Phos-3.6 Mg-2.1
+___ 04:55PM BLOOD VitB12-493
+___ 04:55PM BLOOD TSH-0.46
+___ 04:55PM BLOOD cTropnT-<0.01
+___ 07:20AM BLOOD CK-MB-3 cTropnT-<0.01
+___ 12:55PM BLOOD CK-MB-PND cTropnT-PND
+
+C-SPINE
+IMPRESSION: Minimal loss of height of the C5 vertebral body 
+which is probably old. Mild degenerative arthritic change, most 
+pronounced in the lower cervical spine. Disc space narrowing 
+C5-6 and C6-7, most likely chronic as well. 
+
+CT HEAD
+IMPRESSION: No acute intracranial process.
+ 
+Brief Hospital Course:
+This is an ___ year old woman with HTN, HLD who presents after 
+falling x2 in the last 2 weeks.  
+. 
+# Fall: Patient reports vague leg symptoms that have developed 
+over the past few months, predominantly in the back of the legs 
+without any true weakness, pain, numbness, tingling, bowel or 
+bladder incontinence that would be concerning for a spinal cord 
+compression. Although the patient has iritis, she has no visual 
+complaints and so vision change unlikely to have caused the 
+fall. Iritis in conjunction with posterior column symptoms could 
+possibly be related to syphilis, though the patient reports 
+extensive work up for iritis in the past has not revealed any 
+etiology. Patient also borderline bradycardic, which could cause 
+poor cerebral perfusion though again the patient's symptoms were 
+mostly in her legs, and she denies any dizziness.  Finally, she 
+also c/o some proximal mm weakness (thighs) and the family 
+supported the story that she seems to have difficulty climbing 
+stairs.   We decided to hold her atenolol, especially since her 
+BPs have been okay on lisinopril and HCTZ.  her TSH, B12 were 
+normal, and an RPR was pending at the time of discharge.  ___ saw 
+the patient and felt that outpatient ___ would be beneficial. A 
+script was provided for the patient for outpatient ___.  
+Neurology also saw the patient who felt that posterior column 
+pathology is the most likely cause of her fall.  They have also 
+suggested that she see Neurology in f/u as an outpatient.  
+Finally, she was ruled out for an MI with 3 sets of cardiac 
+enzymes which were negative.
+.
+Of note, ___ saw the patient and felt that she could use 
+outpatient ___ and also was provided with a walker.
+.  
+# Hypertension:  As above, we held atenolol given the 
+possibility that bradycardia could have caused the fall.  She 
+was continued on lisinopril and HCTZ.  Of note, she did have 
+some hypokalemia here, and so we recommend a repeat lab check as 
+an outpatient.  Also, we asked her to check her BP off of 
+atenolol as an outpatient either at home or at a pharmacy to 
+ensure she is not running hypertensive.  She understands close 
+follow up will be important.
+.  
+# Hypokalemia: Likely ___ HCTZ.  She was repleted with potassium 
+in house, and we suggested she have her labs checked by her PCP 
+___. 
+.  
+# RBCs in urine: Unclear if patient had any foley trauma in the 
+ED.  As her Hct was stable, she was discharged for outpt f/u for 
+possible referral for cystoscopy and ___ stones.
+.  
+# Hyperlipidemia: Possible statin myopathy given pt's vague MSK 
+complaints, however CK is nl, so will continue.  We felt that 
+she could potentially try a trial off of statins in the future 
+for possible statin induced myopathy
+.  
+# Iritis: continued eye drops.  We felt it was very unlikely 
+that the steroids from her eye gtts would be enough to cause a 
+steroid myopathy.
+.
+# Anemia: iron studies were sent and are pending at time of 
+discharge.
+.  
+# Depression: continued paroxetine
+.
+# Followup: We have asked the patient to schedule an appointment 
+with her PCP ___ 1 week of discharge.  We have asked her to 
+speak with her PCP regarding the following issues:
+- following up RPR results
+- Repeat Chem-7 to evaluate possible hypokalemia ___ HCTZ
+- Referral for neurology f/u for possible posterior column 
+pathology
+- Outpatient ___ referral (script already provided)
+- Consider trial off of simvastatin to see if ?proximal mm 
+weakness improves.
+ 
+Medications on Admission:
+Prednisolone 1% eyedrops 1 drop to left eye 4 times/day  
+Timolol Maleate 0.5% eyedrios 1 drop to left eye twice daily  
+Simvastatin 80mg po daily  
+Lisinopril 20mg po daily  
+Atenolol 50mg po daily  
+HCTZ 25 mg po daily  
+Paroxetine 15mg po daily  
+
+ 
+Discharge Medications:
+1. prednisolone acetate 1 % Drops, Suspension Sig: One (1) Drop 
+Ophthalmic QID (4 times a day).  
+2. timolol maleate 0.5 % Drops Sig: One (1) Drop Ophthalmic BID 
+(2 times a day).  
+3. simvastatin 80 mg Tablet Sig: One (1) Tablet PO once a day.  
+4. lisinopril 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+5. hydrochlorothiazide 25 mg Tablet Sig: One (1) Tablet PO once 
+a day.  
+6. paroxetine HCl 10 mg Tablet Sig: 1.5 Tablets PO DAILY 
+(Daily).  
+7. Outpatient Physical Therapy
+Evaluation and treatment s/p fall
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Fall due to mechanical reasons vs. neuropathy
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+It was a pleasure taking care of you during your 
+hospitalization. You were admitted to ___ after a fall.  
+X-rays and a CT scan were done which showed you did not have 
+anything abnormal.  We checked some labs which were normal as 
+well.  We feel your fall may be due to imbalance, and for that 
+reason we feel you should see neurology as an outpatient.
+
+Please make the following changes to your medications
+1) STOP taking your ATENOLOL
+Continue your other medications as prescribed.
+
+Please follow up with your physicians as indicated below
+ 
+Followup Instructions:
+___
+"
