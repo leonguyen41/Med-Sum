@@ -10,7 +10,7 @@ st.set_page_config(
 st.title("Patient Medical Records")
 
 # Load the data
-data = pd.read_csv('test_discharge.csv')
+data = pd.read_csv('discharge_test_final.csv')
 
 if "subject_id_input" not in st.session_state:
     st.session_state["subject_id"] =""
